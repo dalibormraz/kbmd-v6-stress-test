@@ -1,0 +1,23 @@
+kb_version: '6.1'
+language: cs
+dirs:
+  templates: 00_TEMPLATES
+  enums: 00_ENUMS
+  raw: raw
+  inbox: wiki/inbox
+  observability: observability
+distilled_dirs:
+- 01_DECISIONS
+- 02_SPECS
+- 03_MEETINGS
+- 04_PEOPLE
+- 05_TASKS
+- 06_RISKS
+index:
+  max_lines: 200
+  max_bytes: 25600
+lint:
+  min_level: info
+  doc_max_lines: 300
+project: Stress KB V6.1
+created: '2026-06-10'
