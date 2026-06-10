@@ -1,0 +1,25 @@
+ingested_at: '2026-06-10'
+original_name: iter-0280-spec.md
+sha256: 3debbcbf3c64520f7074efc120ff72ef1a86933f49568cb58083cc1d34318363
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: redesign webu — doprava zboží'
+  date: '2026-05-24'
+  goal: Postavit doprava zboží pro redesign webu tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  - WHEN vstup chybí, THEN formulář ukáže srozumitelnou chybu
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope:
+  - mobilní aplikace
+  owner: Eva Horká
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-05-24-zadani-redesign-webu-doprava-zbozi.md

@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0184-decision.md
+sha256: 58f75844416cce7aa53e5dd62094114bc80e898c668d4447285c246b839ecd8e
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: rozpočet pro kampaň podzim'
+  date: '2026-01-23'
+  what: Pro rozpočet v projektu kampaň podzim zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  - odložit o kvartál
+  consequences:
+  - nutná úprava harmonogramu
+  owner: Tomáš Malý
+  priority: could
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-01-23-rozhodnuti-rozpocet-pro-kampan-podzim.md

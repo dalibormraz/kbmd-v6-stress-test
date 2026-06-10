@@ -7,3 +7,54 @@
 {"op": "retract", "iter": 100, "phase": "A", "raw": "raw/notes/2026-06-10-iter-0087-spec.md", "quarantined_n": 1, "cascade_ok": true, "kb009_expected": true, "kb009_fired_before_index": true, "errors_after_index": 0, "errors_sample": []}
 {"op": "determinism", "iter": 100, "phase": "A", "identical": true}
 {"op": "index+lint", "iter": 120, "phase": "A", "index_ms": 115, "lint_ms": 466, "lint_errors": 0, "errors_sample": [], "kb_docs": 81}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0002-risk-review.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0004-interview.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0006-client-feedback.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0009-client-feedback.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0010-risk-review.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0020-decision.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0025-risk-review.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0026-risk-review.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0029-interview.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0030-risk-review.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0031-interview.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0037-client-feedback.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0040-risk-review.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0045-risk-review.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0047-risk-review.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0050-risk-review.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0052-risk-review.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0054-interview.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0061-interview.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0063-risk-review.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0070-client-feedback.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0073-risk-review.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0076-client-feedback.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0078-risk-review.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0079-risk-review.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0082-interview.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0083-interview.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0088-risk-review.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0089-risk-review.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0091-client-feedback.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0092-interview.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0100-risk-review.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0102-client-feedback.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0109-client-feedback.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0111-client-feedback.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0116-interview.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0117-interview.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/notes/2026-06-10-iter-0118-client-feedback.md", "outcome": "ok", "phase": "B"}
+{"op": "backfill", "raw": "raw/transcripts/2026-06-10-iter-0085-meeting.md", "outcome": "ok", "phase": "B"}
+{"op": "index+lint", "iter": 140, "phase": "B", "index_ms": 195, "lint_ms": 671, "lint_errors": 0, "errors_sample": [], "kb_docs": 139}
+{"op": "retract", "iter": 150, "phase": "B", "raw": "raw/notes/2026-06-10-iter-0095-spec.md", "quarantined_n": 1, "cascade_ok": true, "kb009_expected": false, "kb009_fired_before_index": false, "errors_after_index": 0, "errors_sample": []}
+{"op": "index+lint", "iter": 160, "phase": "B", "index_ms": 224, "lint_ms": 762, "lint_errors": 0, "errors_sample": [], "kb_docs": 158}
+{"op": "index+lint", "iter": 180, "phase": "B", "index_ms": 252, "lint_ms": 861, "lint_errors": 0, "errors_sample": [], "kb_docs": 177}
+{"op": "index+lint", "iter": 200, "phase": "B", "index_ms": 271, "lint_ms": 949, "lint_errors": 0, "errors_sample": [], "kb_docs": 196}
+{"op": "retract", "iter": 200, "phase": "B", "raw": "raw/transcripts/2026-06-10-iter-0059-meeting.md", "quarantined_n": 1, "cascade_ok": true, "kb009_expected": true, "kb009_fired_before_index": true, "errors_after_index": 0, "errors_sample": []}
+{"op": "determinism", "iter": 200, "phase": "B", "identical": true}
+{"op": "index+lint", "iter": 220, "phase": "B", "index_ms": 286, "lint_ms": 978, "lint_errors": 0, "errors_sample": [], "kb_docs": 215}
+{"op": "index+lint", "iter": 240, "phase": "B", "index_ms": 311, "lint_ms": 1077, "lint_errors": 0, "errors_sample": [], "kb_docs": 233}
+{"op": "retract", "iter": 250, "phase": "B", "raw": "raw/notes/2026-06-10-iter-0189-client-feedback.md", "quarantined_n": 1, "cascade_ok": true, "kb009_expected": true, "kb009_fired_before_index": true, "errors_after_index": 0, "errors_sample": []}
+{"op": "index+lint", "iter": 260, "phase": "B", "index_ms": 351, "lint_ms": 1186, "lint_errors": 0, "errors_sample": [], "kb_docs": 253}
+{"op": "index+lint", "iter": 280, "phase": "B", "index_ms": 365, "lint_ms": 1237, "lint_errors": 0, "errors_sample": [], "kb_docs": 272}

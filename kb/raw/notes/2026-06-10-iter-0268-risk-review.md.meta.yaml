@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0268-risk_review.md
+sha256: 8572ca557bde353db6f2ab42bad6180d9504e5a9c47b73a0aa2c25afe06c8b06
+processed: true
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: fakturační modul'
+  date: '2026-06-13'
+  project: fakturační modul
+  risks:
+  - what: Zpoždění dodávky grafika
+    severity: high
+    mitigation: týdenní kontrola stavu
+    owner: Petr Novák
+  decisions_needed: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: risk_review
+  output: 06_RISKS/2026-06-13-revize-rizik-fakturacni-modul.md

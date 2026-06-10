@@ -1,0 +1,28 @@
+ingested_at: '2026-06-10'
+original_name: iter-0274-meeting.md
+sha256: 0b02028df60cca6c2816f11408c9b4b63e6e4a571d0020370d9350cc5ba7a1db
+processed: false
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: datový sklad — rozpočet'
+  date: '2026-04-21'
+  participants:
+  - Lucie Veselá
+  - Eva Horká
+  - Tomáš Malý
+  - Jana Dvořáková
+  summary: Řešili jsme rozpočet pro projekt datový sklad; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro rozpočet použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Lucie Veselá
+  actions:
+  - what: Připravit podklady k rozpočet
+    owner: Eva Horká
+    due: do konce týdne
+  open_questions:
+  - Kdo schválí rozpočet za rozpočet?
+  risks:
+  - Možné zpoždění kvůli dovoleným

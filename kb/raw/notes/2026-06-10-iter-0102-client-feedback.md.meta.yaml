@@ -1,7 +1,7 @@
 ingested_at: '2026-06-10'
 original_name: iter-0102-client_feedback.md
 sha256: 5e8a769aae4761df8352e8f356b9ecbd6398e950527d6e00b2a8c46016914eaf
-processed: false
+processed: true
 retracted: false
 stress_type: client_feedback
 stress_gt:
@@ -13,3 +13,8 @@ stress_gt:
   - Líbí se přehlednost nového návrhu
   - Vadí pomalé načítání na mobilu
   requests: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: client_feedback
+  output: 04_PEOPLE/2026-02-08-zpetna-vazba-fakturacni-modul.md

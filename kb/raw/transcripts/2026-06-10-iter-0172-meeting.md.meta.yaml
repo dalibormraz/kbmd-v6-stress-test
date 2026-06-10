@@ -1,0 +1,33 @@
+ingested_at: '2026-06-10'
+original_name: iter-0172-meeting.md
+sha256: 1c301c61d935f24a3ca19d68dc3df304fa83ec13726c9fa8a939454f3880dc35
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: mobilní aplikace — migrace dat'
+  date: '2026-03-04'
+  participants:
+  - Eva Horká
+  - Jana Dvořáková
+  summary: Řešili jsme migrace dat pro projekt mobilní aplikace; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro migrace dat použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Eva Horká
+  actions:
+  - what: Připravit podklady k migrace dat
+    owner: Jana Dvořáková
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Eva Horká
+    due: null
+  open_questions: []
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-03-04-schuzka-mobilni-aplikace-migrace-dat.md

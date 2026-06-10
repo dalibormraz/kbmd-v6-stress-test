@@ -1,0 +1,24 @@
+ingested_at: '2026-06-10'
+original_name: iter-0161-spec.md
+sha256: ec75203399e416b87da2c3e2baebaa3b0eedc3f7ccc2d69e0ad7e3ed9815b3e3
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: e-shop s keramikou — rozpočet'
+  date: '2026-06-25'
+  goal: Postavit rozpočet pro e-shop s keramikou tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  - WHEN vstup chybí, THEN formulář ukáže srozumitelnou chybu
+  constraints: []
+  out_of_scope:
+  - mobilní aplikace
+  owner: Jakub Polák
+  priority: should
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: wiki/inbox/2026-06-25-zadani-e-shop-s-keramikou-rozpocet.md

@@ -1,0 +1,32 @@
+ingested_at: '2026-06-10'
+original_name: iter-0151-meeting.md
+sha256: bad199a4de4206cbbf96a210fac7dd77823231c6eb2d3c8c18594f52947a23fc
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: interní wiki — doprava zboží'
+  date: '2026-05-05'
+  participants:
+  - Petr Novák
+  - Jakub Polák
+  summary: Řešili jsme doprava zboží pro projekt interní wiki; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro doprava zboží použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Petr Novák
+  actions:
+  - what: Připravit podklady k doprava zboží
+    owner: Jakub Polák
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Petr Novák
+    due: null
+  open_questions: []
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-05-05-schuzka-interni-wiki-doprava-zbozi.md

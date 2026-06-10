@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0141-decision.md
+sha256: 30a8a77a90a17f94926e78429e01f329552d9afea633814091a44816b733765f
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: migrace dat pro redesign webu'
+  date: '2026-02-02'
+  what: Pro migrace dat v projektu redesign webu zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  consequences:
+  - nutná úprava harmonogramu
+  owner: Petr Novák
+  priority: could
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-02-02-rozhodnuti-migrace-dat-pro-redesign-webu.md

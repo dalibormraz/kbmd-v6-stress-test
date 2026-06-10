@@ -2,7 +2,7 @@
 title: 'Schůzka: redesign webu — obsah webu'
 template: meeting
 template_version: 1.0.0
-status: published
+status: quarantined
 source: raw/transcripts/2026-06-10-iter-0059-meeting.md
 extracted_at: '2026-06-10T18:21:46Z'
 extracted_at_date: '2026-06-10'
@@ -32,6 +32,7 @@ open_questions:
 - Kdo schválí rozpočet za obsah webu?
 risks:
 - Možné zpoždění kvůli dovoleným
+needs_review_reason: 'zdroj stažen: stress: retraction op @iter 200'
 ---
 
 # Schůzka: redesign webu — obsah webu

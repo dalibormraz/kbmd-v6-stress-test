@@ -1,0 +1,20 @@
+ingested_at: '2026-06-10'
+original_name: iter-0189-client_feedback.md
+sha256: f616c0c23eff5c3845216b3c036b7880768122648675cd2ddf41277a0e8df757
+processed: true
+retracted: true
+stress_type: client_feedback
+stress_gt:
+  title: 'Zpětná vazba: kampaň podzim'
+  date: '2026-04-21'
+  source_person: Michal Beneš
+  sentiment: positive
+  points:
+  - Líbí se přehlednost nového návrhu
+  requests: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: client_feedback
+  output: 04_PEOPLE/2026-04-21-zpetna-vazba-kampan-podzim.md
+retracted_reason: 'stress: retraction op @iter 250'

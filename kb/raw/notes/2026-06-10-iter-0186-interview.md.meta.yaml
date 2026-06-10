@@ -1,0 +1,20 @@
+ingested_at: '2026-06-10'
+original_name: iter-0186-interview.md
+sha256: 961b05cc135a81d3ad398f32309efa6bdecc8ce2c7dea5bc88e19ed4bb33e21d
+processed: true
+retracted: false
+stress_type: interview
+stress_gt:
+  title: 'Rozhovor: Ondřej Král (rezervační systém)'
+  date: '2026-06-16'
+  interviewee: Ondřej Král
+  role: vedoucí provozu
+  insights:
+  - Nejvíc času ztrácí ruční přepisování objednávek
+  follow_ups:
+  - Domluvit stínování provozu na půl dne
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: interview
+  output: 04_PEOPLE/2026-06-16-rozhovor-ondrej-kral-rezervacni-system.md

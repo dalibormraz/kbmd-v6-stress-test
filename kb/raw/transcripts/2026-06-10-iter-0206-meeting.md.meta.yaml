@@ -1,0 +1,31 @@
+ingested_at: '2026-06-10'
+original_name: iter-0206-meeting.md
+sha256: 01a70c75658db77208d39d533e7986534235ae4c5a7e86e040b5ef26213a7ea5
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: redesign webu — rozpočet'
+  date: '2026-05-24'
+  participants:
+  - Eva Horká
+  - Jakub Polák
+  - Michal Beneš
+  summary: Řešili jsme rozpočet pro projekt redesign webu; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro rozpočet použijeme variantu C
+    why: nejlepší poměr cena/termín
+    owner: Eva Horká
+  actions:
+  - what: Připravit podklady k rozpočet
+    owner: Jakub Polák
+    due: do konce týdne
+  open_questions:
+  - Kdo schválí rozpočet za rozpočet?
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-05-24-schuzka-redesign-webu-rozpocet.md

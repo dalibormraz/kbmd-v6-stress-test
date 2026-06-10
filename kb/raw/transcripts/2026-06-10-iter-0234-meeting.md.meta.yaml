@@ -1,0 +1,35 @@
+ingested_at: '2026-06-10'
+original_name: iter-0234-meeting.md
+sha256: d43eb0dd239154541886bb1cdeed4683929360511a22080dd5c62268eb408138
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: datový sklad — doprava zboží'
+  date: '2026-05-15'
+  participants:
+  - Eva Horká
+  - Petr Novák
+  - Jana Dvořáková
+  - Tomáš Malý
+  summary: Řešili jsme doprava zboží pro projekt datový sklad; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro doprava zboží použijeme variantu C
+    why: nejlepší poměr cena/termín
+    owner: Eva Horká
+  actions:
+  - what: Připravit podklady k doprava zboží
+    owner: Petr Novák
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Eva Horká
+    due: null
+  open_questions:
+  - Kdo schválí rozpočet za doprava zboží?
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-05-15-schuzka-datovy-sklad-doprava-zbozi.md

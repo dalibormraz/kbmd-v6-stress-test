@@ -1,0 +1,33 @@
+ingested_at: '2026-06-10'
+original_name: iter-0155-meeting.md
+sha256: d3bb197c45bf904626807f6c03c7c20fd549d0cf57e956c07c334d2b2780e7fc
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: mobilní aplikace — rozpočet'
+  date: '2026-02-23'
+  participants:
+  - Jana Dvořáková
+  - Marie Tichá
+  summary: Řešili jsme rozpočet pro projekt mobilní aplikace; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro rozpočet použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Jana Dvořáková
+  actions:
+  - what: Připravit podklady k rozpočet
+    owner: Marie Tichá
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Jana Dvořáková
+    due: null
+  open_questions:
+  - Kdo schválí rozpočet za rozpočet?
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-02-23-schuzka-mobilni-aplikace-rozpocet.md

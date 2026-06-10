@@ -2,7 +2,7 @@ ingested_at: '2026-06-10'
 original_name: iter-0059-meeting.md
 sha256: 81e5e2642bb43230dbc88cee34a6a0b8061232f00d472ad5cecd7f149a4d9474
 processed: true
-retracted: false
+retracted: true
 stress_type: meeting
 stress_gt:
   title: 'Schůzka: redesign webu — obsah webu'
@@ -33,3 +33,4 @@ summarized: false
 extractions:
 - template: meeting
   output: 03_MEETINGS/2026-02-08-schuzka-redesign-webu-obsah-webu.md
+retracted_reason: 'stress: retraction op @iter 200'

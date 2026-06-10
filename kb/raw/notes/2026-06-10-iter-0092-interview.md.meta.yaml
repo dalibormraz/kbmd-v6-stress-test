@@ -1,7 +1,7 @@
 ingested_at: '2026-06-10'
 original_name: iter-0092-interview.md
 sha256: 2435b0e810f388869a3ffb224f12c9e868f52d50e7e019d8e0077b2fe8e2319d
-processed: false
+processed: true
 retracted: false
 stress_type: interview
 stress_gt:
@@ -13,3 +13,8 @@ stress_gt:
   - Nejvíc času ztrácí ruční přepisování objednávek
   follow_ups:
   - Domluvit stínování provozu na půl dne
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: interview
+  output: 04_PEOPLE/2026-04-27-rozhovor-michal-benes-interni-wiki.md

@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0267-decision.md
+sha256: 3d6b3dde63746fb9bac869f931f0c18bc15555bd19937ab6fe9d927285e94144
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: grafika pro redesign webu'
+  date: '2026-06-14'
+  what: Pro grafika v projektu redesign webu zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  consequences:
+  - nutná úprava harmonogramu
+  owner: Marie Tichá
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-06-14-rozhodnuti-grafika-pro-redesign-webu.md

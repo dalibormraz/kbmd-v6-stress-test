@@ -1,0 +1,31 @@
+ingested_at: '2026-06-10'
+original_name: iter-0175-meeting.md
+sha256: f46783de674276f5ca0d1a7b49b19728b27e5a13f82225cba6dcebdfb70de5d4
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: datový sklad — smlouva'
+  date: '2026-04-05'
+  participants:
+  - Klára Svobodová
+  - Michal Beneš
+  - Petr Novák
+  - Jakub Polák
+  summary: Řešili jsme smlouva pro projekt datový sklad; shoda na dalším postupu a
+    rozdělení úkolů.
+  decisions:
+  - what: Pro smlouva použijeme variantu C
+    why: nejlepší poměr cena/termín
+    owner: Klára Svobodová
+  actions:
+  - what: Připravit podklady k smlouva
+    owner: Michal Beneš
+    due: do konce týdne
+  open_questions: []
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: wiki/inbox/2026-04-05-schuzka-datovy-sklad-smlouva.md

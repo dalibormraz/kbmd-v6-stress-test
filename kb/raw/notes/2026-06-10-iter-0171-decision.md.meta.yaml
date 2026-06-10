@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0171-decision.md
+sha256: 2b50f0fe223431e8fca86f961b3e678732fe612a070b844cd4ff5518ea355571
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: doprava zboží pro mobilní aplikace'
+  date: '2026-06-25'
+  what: Pro doprava zboží v projektu mobilní aplikace zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  - odložit o kvartál
+  consequences:
+  - nutná úprava harmonogramu
+  owner: Jakub Polák
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-06-25-rozhodnuti-doprava-zbozi-pro-mobilni-aplikace.md

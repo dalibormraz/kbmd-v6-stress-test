@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0228-risk_review.md
+sha256: a07e2b7dae93f1aa9d24493023629eace5dcc0b6f535ba30dcc8688857e7b55d
+processed: true
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: kampaň podzim'
+  date: '2026-03-21'
+  project: kampaň podzim
+  risks:
+  - what: Zpoždění dodávky školení týmu
+    severity: low
+    mitigation: týdenní kontrola stavu
+    owner: Eva Horká
+  decisions_needed: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: risk_review
+  output: wiki/inbox/2026-03-21-revize-rizik-kampan-podzim.md

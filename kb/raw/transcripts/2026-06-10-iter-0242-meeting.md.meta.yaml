@@ -1,0 +1,31 @@
+ingested_at: '2026-06-10'
+original_name: iter-0242-meeting.md
+sha256: c74fc1daee11b7ff512d232dd0024c3fcbc67c0055b4cb59f85f11d60b90e7e7
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: interní wiki — rozpočet'
+  date: '2026-04-01'
+  participants:
+  - Marie Tichá
+  - Ondřej Král
+  summary: Řešili jsme rozpočet pro projekt interní wiki; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro rozpočet použijeme variantu C
+    why: nejlepší poměr cena/termín
+    owner: Marie Tichá
+  actions:
+  - what: Připravit podklady k rozpočet
+    owner: Ondřej Král
+    due: do konce týdne
+  open_questions:
+  - Kdo schválí rozpočet za rozpočet?
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-04-01-schuzka-interni-wiki-rozpocet.md

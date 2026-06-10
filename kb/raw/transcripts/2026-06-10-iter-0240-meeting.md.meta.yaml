@@ -1,0 +1,33 @@
+ingested_at: '2026-06-10'
+original_name: iter-0240-meeting.md
+sha256: fd6bae35ae76f00d5b6f75f1f4ff2fcbb6a67a92273037dbe8a9fb4ee7b16035
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: interní wiki — testování'
+  date: '2026-06-05'
+  participants:
+  - Michal Beneš
+  - Tomáš Malý
+  summary: Řešili jsme testování pro projekt interní wiki; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro testování použijeme variantu C
+    why: nejlepší poměr cena/termín
+    owner: Michal Beneš
+  actions:
+  - what: Připravit podklady k testování
+    owner: Tomáš Malý
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Michal Beneš
+    due: null
+  open_questions: []
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-06-05-schuzka-interni-wiki-testovani.md

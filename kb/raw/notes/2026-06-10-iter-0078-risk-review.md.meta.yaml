@@ -1,7 +1,7 @@
 ingested_at: '2026-06-10'
 original_name: iter-0078-risk_review.md
 sha256: f4b39a4605596b65f98d1c9045070b0c5ef3064fbfaf44e517da2a736f02e615
-processed: false
+processed: true
 retracted: false
 stress_type: risk_review
 stress_gt:
@@ -15,3 +15,8 @@ stress_gt:
     owner: Lucie Veselá
   decisions_needed:
   - Schválit rezervu v rozpočtu
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: risk_review
+  output: 06_RISKS/2026-06-20-revize-rizik-fakturacni-modul.md

@@ -1,0 +1,19 @@
+ingested_at: '2026-06-10'
+original_name: iter-0162-client_feedback.md
+sha256: 36f11f7ca0559cb6022923c0cc7a1c032d27a537892db5f8c955517d83938fea
+processed: true
+retracted: false
+stress_type: client_feedback
+stress_gt:
+  title: 'Zpětná vazba: rezervační systém'
+  date: '2026-06-07'
+  source_person: Jana Dvořáková
+  sentiment: positive
+  points:
+  - Líbí se přehlednost nového návrhu
+  requests: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: client_feedback
+  output: 04_PEOPLE/2026-06-07-zpetna-vazba-rezervacni-system.md

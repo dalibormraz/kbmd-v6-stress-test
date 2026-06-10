@@ -1,0 +1,16 @@
+ingested_at: '2026-06-10'
+original_name: iter-0201-risk_review.md
+sha256: 68e35b25dd483988cb3c643ac32b13a051d676ae56ae84f474fba0ec0452ca2b
+processed: false
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: interní wiki'
+  date: '2026-01-15'
+  project: interní wiki
+  risks:
+  - what: Zpoždění dodávky školení týmu
+    severity: medium
+    mitigation: týdenní kontrola stavu
+    owner: Eva Horká
+  decisions_needed: []

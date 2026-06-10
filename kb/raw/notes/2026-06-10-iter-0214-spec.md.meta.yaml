@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0214-spec.md
+sha256: ba7e3fbe35064f0a0fff7dfe3853708fb5ec77867a20afe383ea275a1c933327
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: datový sklad — platební brána'
+  date: '2026-05-14'
+  goal: Postavit platební brána pro datový sklad tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope: []
+  owner: Petr Novák
+  priority: should
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-05-14-zadani-datovy-sklad-platebni-brana.md

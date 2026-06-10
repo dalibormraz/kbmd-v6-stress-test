@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0229-risk_review.md
+sha256: b3dbbc8958a04313f7c49e70e0e80094d65813601594e2f2dc6d8404258bf2fb
+processed: true
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: fakturační modul'
+  date: '2026-01-26'
+  project: fakturační modul
+  risks:
+  - what: Zpoždění dodávky smlouva
+    severity: low
+    mitigation: týdenní kontrola stavu
+    owner: Jakub Polák
+  decisions_needed:
+  - Schválit rezervu v rozpočtu
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: risk_review
+  output: 06_RISKS/2026-01-26-revize-rizik-fakturacni-modul.md

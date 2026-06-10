@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0272-risk_review.md
+sha256: 933b72470bdeaec09a3120805a083801d3ccc6fa82984d7d018f19d208799355
+processed: true
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: e-shop s keramikou'
+  date: '2026-06-24'
+  project: e-shop s keramikou
+  risks:
+  - what: Zpoždění dodávky doprava zboží
+    severity: high
+    mitigation: týdenní kontrola stavu
+    owner: Ondřej Král
+  decisions_needed:
+  - Schválit rezervu v rozpočtu
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: risk_review
+  output: 06_RISKS/2026-06-24-revize-rizik-e-shop-s-keramikou.md

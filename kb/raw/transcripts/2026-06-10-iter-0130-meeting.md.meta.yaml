@@ -1,0 +1,33 @@
+ingested_at: '2026-06-10'
+original_name: iter-0130-meeting.md
+sha256: a9725e5b346195173147bf4082059b8153d18718284b607bd45346b09312e1c7
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: redesign webu — testování'
+  date: '2026-02-12'
+  participants:
+  - Tomáš Malý
+  - Ondřej Král
+  summary: Řešili jsme testování pro projekt redesign webu; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro testování použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Tomáš Malý
+  actions:
+  - what: Připravit podklady k testování
+    owner: Ondřej Král
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Tomáš Malý
+    due: null
+  open_questions: []
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: wiki/inbox/2026-02-12-schuzka-redesign-webu-testovani.md

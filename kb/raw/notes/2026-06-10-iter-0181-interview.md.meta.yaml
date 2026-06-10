@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0181-interview.md
+sha256: d157b71d42ca4a2091080a606022411549b680a02824c4bf0ec4331c88684550
+processed: true
+retracted: false
+stress_type: interview
+stress_gt:
+  title: 'Rozhovor: Tomáš Malý (interní wiki)'
+  date: '2026-03-24'
+  interviewee: Tomáš Malý
+  role: vedoucí provozu
+  insights:
+  - Nejvíc času ztrácí ruční přepisování objednávek
+  - Tým si vede vlastní tabulky mimo systém
+  follow_ups:
+  - Domluvit stínování provozu na půl dne
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: interview
+  output: 04_PEOPLE/2026-03-24-rozhovor-tomas-maly-interni-wiki.md

@@ -1,0 +1,31 @@
+ingested_at: '2026-06-10'
+original_name: iter-0127-meeting.md
+sha256: 40a50a81b8ede1740399b6bb089879ed3a622146533538f4f1a9e77728958c90
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: fakturační modul — grafika'
+  date: '2026-02-23'
+  participants:
+  - Eva Horká
+  - Lucie Veselá
+  summary: Řešili jsme grafika pro projekt fakturační modul; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro grafika použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Eva Horká
+  actions:
+  - what: Připravit podklady k grafika
+    owner: Lucie Veselá
+    due: do konce týdne
+  open_questions:
+  - Kdo schválí rozpočet za grafika?
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-02-23-schuzka-fakturacni-modul-grafika.md

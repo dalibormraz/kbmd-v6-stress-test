@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0222-interview.md
+sha256: d231f49325c0999dc6607c0228ff40bb26396c59c0c687c204e3f321b56c088b
+processed: true
+retracted: false
+stress_type: interview
+stress_gt:
+  title: 'Rozhovor: Klára Svobodová (e-shop s keramikou)'
+  date: '2026-04-11'
+  interviewee: Klára Svobodová
+  role: vedoucí provozu
+  insights:
+  - Nejvíc času ztrácí ruční přepisování objednávek
+  - Tým si vede vlastní tabulky mimo systém
+  follow_ups:
+  - Domluvit stínování provozu na půl dne
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: interview
+  output: 04_PEOPLE/2026-04-11-rozhovor-klara-svobodova-e-shop-s-keramikou.md

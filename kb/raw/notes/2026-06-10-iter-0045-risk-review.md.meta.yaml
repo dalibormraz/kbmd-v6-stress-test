@@ -1,7 +1,7 @@
 ingested_at: '2026-06-10'
 original_name: iter-0045-risk_review.md
 sha256: c3c88337a471a641e5e6a9d67562cbec60f3de1f02d106609742f375d20eae7d
-processed: false
+processed: true
 retracted: false
 stress_type: risk_review
 stress_gt:
@@ -15,3 +15,8 @@ stress_gt:
     owner: Petr Novák
   decisions_needed:
   - Schválit rezervu v rozpočtu
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: risk_review
+  output: 06_RISKS/2026-02-13-revize-rizik-rezervacni-system-2.md

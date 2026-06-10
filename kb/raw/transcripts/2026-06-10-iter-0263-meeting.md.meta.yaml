@@ -1,0 +1,32 @@
+ingested_at: '2026-06-10'
+original_name: iter-0263-meeting.md
+sha256: f9dbc80660c38af0a83bca7932739747c226fdca100bbc045c8e5b5b87dd7976
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: datový sklad — grafika'
+  date: '2026-05-15'
+  participants:
+  - Tomáš Malý
+  - Eva Horká
+  - Lucie Veselá
+  - Jana Dvořáková
+  summary: Řešili jsme grafika pro projekt datový sklad; shoda na dalším postupu a
+    rozdělení úkolů.
+  decisions:
+  - what: Pro grafika použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Tomáš Malý
+  actions:
+  - what: Připravit podklady k grafika
+    owner: Eva Horká
+    due: do konce týdne
+  open_questions: []
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-05-15-schuzka-datovy-sklad-grafika.md

@@ -1,0 +1,34 @@
+ingested_at: '2026-06-10'
+original_name: iter-0262-meeting.md
+sha256: 6612a8f52b79c7611b4a9b68bc5d02305a1c57946063749ec20a8d687cd3f748
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: interní wiki — migrace dat'
+  date: '2026-02-17'
+  participants:
+  - Jakub Polák
+  - Petr Novák
+  - Tomáš Malý
+  - Jana Dvořáková
+  summary: Řešili jsme migrace dat pro projekt interní wiki; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro migrace dat použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Jakub Polák
+  actions:
+  - what: Připravit podklady k migrace dat
+    owner: Petr Novák
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Jakub Polák
+    due: null
+  open_questions: []
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-02-17-schuzka-interni-wiki-migrace-dat.md

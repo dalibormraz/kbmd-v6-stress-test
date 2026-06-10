@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0256-decision.md
+sha256: da8aee8206cdce5d7b3e43fcd6de79da27106e8e13639103538ac9b70bebff8b
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: obsah webu pro mobilní aplikace'
+  date: '2026-06-23'
+  what: Pro obsah webu v projektu mobilní aplikace zvolena varianta B.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  - odložit o kvartál
+  consequences: []
+  owner: Jana Dvořáková
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-06-23-rozhodnuti-obsah-webu-pro-mobilni-aplikace.md

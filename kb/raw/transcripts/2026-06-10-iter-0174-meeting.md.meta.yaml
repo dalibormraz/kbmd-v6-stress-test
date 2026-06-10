@@ -1,0 +1,32 @@
+ingested_at: '2026-06-10'
+original_name: iter-0174-meeting.md
+sha256: 7085bfc5eac753e2122955a4c2a1554ca28e5c9d3c9e76e6e8fbd9ac6498fb58
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: kampaň podzim — rozpočet'
+  date: '2026-06-22'
+  participants:
+  - Lucie Veselá
+  - Michal Beneš
+  - Ondřej Král
+  summary: Řešili jsme rozpočet pro projekt kampaň podzim; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro rozpočet použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Lucie Veselá
+  actions:
+  - what: Připravit podklady k rozpočet
+    owner: Michal Beneš
+    due: do konce týdne
+  open_questions:
+  - Kdo schválí rozpočet za rozpočet?
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-06-22-schuzka-kampan-podzim-rozpocet.md

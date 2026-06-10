@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0273-decision.md
+sha256: 5f2eccd4e663f84bacbf4a7cd85bebed5e9a9987e01726de5fb6220be338514c
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: grafika pro rezervační systém'
+  date: '2026-04-16'
+  what: Pro grafika v projektu rezervační systém zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  consequences: []
+  owner: Marie Tichá
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-04-16-rozhodnuti-grafika-pro-rezervacni-system.md

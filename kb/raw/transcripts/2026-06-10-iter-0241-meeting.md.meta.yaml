@@ -1,0 +1,33 @@
+ingested_at: '2026-06-10'
+original_name: iter-0241-meeting.md
+sha256: 6730aec7d024a54a1e035b4961480f2eb2a86dab3399cc7d8c7e4554676cd882
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: kampaň podzim — doprava zboží'
+  date: '2026-03-20'
+  participants:
+  - Lucie Veselá
+  - Jakub Polák
+  - Klára Svobodová
+  - Tomáš Malý
+  summary: Řešili jsme doprava zboží pro projekt kampaň podzim; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro doprava zboží použijeme variantu C
+    why: nejlepší poměr cena/termín
+    owner: Lucie Veselá
+  actions:
+  - what: Připravit podklady k doprava zboží
+    owner: Jakub Polák
+    due: do konce týdne
+  open_questions:
+  - Kdo schválí rozpočet za doprava zboží?
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-03-20-schuzka-kampan-podzim-doprava-zbozi.md

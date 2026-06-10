@@ -1,0 +1,30 @@
+ingested_at: '2026-06-10'
+original_name: iter-0260-meeting.md
+sha256: c0e1b2a9791230d2578f7841caebf36608993f9cbe45da662e539f853eb60f4c
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: interní wiki — platební brána'
+  date: '2026-02-02'
+  participants:
+  - Michal Beneš
+  - Petr Novák
+  summary: Řešili jsme platební brána pro projekt interní wiki; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro platební brána použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Michal Beneš
+  actions:
+  - what: Připravit podklady k platební brána
+    owner: Petr Novák
+    due: do konce týdne
+  open_questions: []
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-02-02-schuzka-interni-wiki-platebni-brana.md

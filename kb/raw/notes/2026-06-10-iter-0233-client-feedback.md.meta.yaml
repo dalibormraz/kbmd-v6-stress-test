@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0233-client_feedback.md
+sha256: 5de880c4eeb40f2c7bcc9905a3bf27518a0140d9869b7a8471af9a5c9b086d38
+processed: true
+retracted: false
+stress_type: client_feedback
+stress_gt:
+  title: 'Zpětná vazba: redesign webu'
+  date: '2026-06-08'
+  source_person: Tomáš Malý
+  sentiment: positive
+  points:
+  - Líbí se přehlednost nového návrhu
+  - Vadí pomalé načítání na mobilu
+  requests:
+  - Přidat export do PDF
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: client_feedback
+  output: 04_PEOPLE/2026-06-08-zpetna-vazba-redesign-webu.md

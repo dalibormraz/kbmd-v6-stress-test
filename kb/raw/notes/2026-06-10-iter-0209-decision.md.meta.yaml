@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0209-decision.md
+sha256: 7a22b4e73bc471600b1e00a16f337c3bff37e6bef080fb339a1f02884a690dcf
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: doprava zboží pro kampaň podzim'
+  date: '2026-03-25'
+  what: Pro doprava zboží v projektu kampaň podzim zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  - odložit o kvartál
+  consequences:
+  - nutná úprava harmonogramu
+  owner: Marie Tichá
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-03-25-rozhodnuti-doprava-zbozi-pro-kampan-podzim.md

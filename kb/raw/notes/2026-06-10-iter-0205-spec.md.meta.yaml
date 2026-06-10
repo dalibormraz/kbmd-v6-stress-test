@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0205-spec.md
+sha256: c2c3cb184b19c2e7d996f7b350af9e436963b91a014f26f3233176e53b772a30
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: mobilní aplikace — smlouva'
+  date: '2026-05-27'
+  goal: Postavit smlouva pro mobilní aplikace tak, aby to zvládl běžný uživatel bez
+    školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints: []
+  out_of_scope: []
+  owner: Eva Horká
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-05-27-zadani-mobilni-aplikace-smlouva.md

@@ -1,0 +1,34 @@
+ingested_at: '2026-06-10'
+original_name: iter-0139-meeting.md
+sha256: 465ae729064c16e39bc0239621468b1889732ed73b432b6660aa92d695a0a74b
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: kampaň podzim — školení týmu'
+  date: '2026-03-06'
+  participants:
+  - Marie Tichá
+  - Tomáš Malý
+  summary: Řešili jsme školení týmu pro projekt kampaň podzim; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro školení týmu použijeme variantu C
+    why: nejlepší poměr cena/termín
+    owner: Marie Tichá
+  actions:
+  - what: Připravit podklady k školení týmu
+    owner: Tomáš Malý
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Marie Tichá
+    due: null
+  open_questions:
+  - Kdo schválí rozpočet za školení týmu?
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-03-06-schuzka-kampan-podzim-skoleni-tymu.md

@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0173-risk_review.md
+sha256: 73f283a60467145b377294290addd834d1c4adfa3cc659307f927ae47a7a9532
+processed: true
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: kampaň podzim'
+  date: '2026-02-18'
+  project: kampaň podzim
+  risks:
+  - what: Zpoždění dodávky harmonogram
+    severity: low
+    mitigation: týdenní kontrola stavu
+    owner: Petr Novák
+  decisions_needed: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: risk_review
+  output: 06_RISKS/2026-02-18-revize-rizik-kampan-podzim.md

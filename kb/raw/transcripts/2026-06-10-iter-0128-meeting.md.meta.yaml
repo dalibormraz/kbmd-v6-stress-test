@@ -1,0 +1,35 @@
+ingested_at: '2026-06-10'
+original_name: iter-0128-meeting.md
+sha256: 2c61caf1c8482398d9e8447f52544fac808f8c80163c285522834a93b2772538
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: e-shop s keramikou — testování'
+  date: '2026-02-24'
+  participants:
+  - Tomáš Malý
+  - Michal Beneš
+  - Klára Svobodová
+  - Petr Novák
+  summary: Řešili jsme testování pro projekt e-shop s keramikou; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro testování použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Tomáš Malý
+  actions:
+  - what: Připravit podklady k testování
+    owner: Michal Beneš
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Tomáš Malý
+    due: null
+  open_questions: []
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-02-24-schuzka-e-shop-s-keramikou-testovani.md

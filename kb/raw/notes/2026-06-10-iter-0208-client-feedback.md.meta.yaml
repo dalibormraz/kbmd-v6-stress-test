@@ -1,0 +1,20 @@
+ingested_at: '2026-06-10'
+original_name: iter-0208-client_feedback.md
+sha256: 7bf4fac807ae508eefa65b53fbcb4b0ce935dcb65f981790e9de87d4fa89cfe4
+processed: true
+retracted: false
+stress_type: client_feedback
+stress_gt:
+  title: 'Zpětná vazba: rezervační systém'
+  date: '2026-04-21'
+  source_person: Ondřej Král
+  sentiment: negative
+  points:
+  - Líbí se přehlednost nového návrhu
+  requests:
+  - Přidat export do PDF
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: client_feedback
+  output: 04_PEOPLE/2026-04-21-zpetna-vazba-rezervacni-system.md

@@ -1,0 +1,29 @@
+ingested_at: '2026-06-10'
+original_name: iter-0164-meeting.md
+sha256: 04d481b34b22042f46f2146d5cb1f6271e862fb71be852be0b8ed044230c8ddd
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: mobilní aplikace — obsah webu'
+  date: '2026-06-13'
+  participants:
+  - Ondřej Král
+  - Marie Tichá
+  summary: Řešili jsme obsah webu pro projekt mobilní aplikace; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro obsah webu použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Ondřej Král
+  actions:
+  - what: Připravit podklady k obsah webu
+    owner: Marie Tichá
+    due: do konce týdne
+  open_questions: []
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-06-13-schuzka-mobilni-aplikace-obsah-webu.md

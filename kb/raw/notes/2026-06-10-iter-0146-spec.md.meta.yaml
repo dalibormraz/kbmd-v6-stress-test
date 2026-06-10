@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0146-spec.md
+sha256: 72fc4eaab5ad5994addcc265aab11aabcae7a485277946ac6a77d63e7d1f09d3
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: datový sklad — testování'
+  date: '2026-06-04'
+  goal: Postavit testování pro datový sklad tak, aby to zvládl běžný uživatel bez
+    školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  - WHEN vstup chybí, THEN formulář ukáže srozumitelnou chybu
+  constraints: []
+  out_of_scope: []
+  owner: Marie Tichá
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-06-04-zadani-datovy-sklad-testovani.md

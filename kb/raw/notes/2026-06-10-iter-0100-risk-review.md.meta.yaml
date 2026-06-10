@@ -1,7 +1,7 @@
 ingested_at: '2026-06-10'
 original_name: iter-0100-risk_review.md
 sha256: 7ae0f1767fd9494eb80393dcd8957bf5a77521d9a33a4c9e6500f33f5d83cf6d
-processed: false
+processed: true
 retracted: false
 stress_type: risk_review
 stress_gt:
@@ -15,3 +15,8 @@ stress_gt:
     owner: Michal Beneš
   decisions_needed:
   - Schválit rezervu v rozpočtu
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: risk_review
+  output: 06_RISKS/2026-05-05-revize-rizik-mobilni-aplikace.md

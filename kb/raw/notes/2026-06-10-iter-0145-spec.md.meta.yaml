@@ -1,0 +1,25 @@
+ingested_at: '2026-06-10'
+original_name: iter-0145-spec.md
+sha256: bab0ac129d34fa1ef9a0fb891c57b1b75b8e77d9576b2b4cfb88da48e5880d1a
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: e-shop s keramikou — migrace dat'
+  date: '2026-04-22'
+  goal: Postavit migrace dat pro e-shop s keramikou tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  - WHEN vstup chybí, THEN formulář ukáže srozumitelnou chybu
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope:
+  - mobilní aplikace
+  owner: Lucie Veselá
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-04-22-zadani-e-shop-s-keramikou-migrace-dat.md

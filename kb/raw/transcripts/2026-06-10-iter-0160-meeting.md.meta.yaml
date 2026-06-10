@@ -1,0 +1,32 @@
+ingested_at: '2026-06-10'
+original_name: iter-0160-meeting.md
+sha256: dfa093e6be5578a9b13429dd7a8938ea4cbd6116866f6605a0b4343e8e603b49
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: fakturační modul — obsah webu'
+  date: '2026-01-04'
+  participants:
+  - Eva Horká
+  - Klára Svobodová
+  - Michal Beneš
+  - Lucie Veselá
+  summary: Řešili jsme obsah webu pro projekt fakturační modul; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro obsah webu použijeme variantu C
+    why: nejlepší poměr cena/termín
+    owner: Eva Horká
+  actions:
+  - what: Připravit podklady k obsah webu
+    owner: Klára Svobodová
+    due: do konce týdne
+  open_questions:
+  - Kdo schválí rozpočet za obsah webu?
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-01-04-schuzka-fakturacni-modul-obsah-webu.md

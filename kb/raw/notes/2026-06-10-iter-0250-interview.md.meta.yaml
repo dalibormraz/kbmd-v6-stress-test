@@ -1,0 +1,20 @@
+ingested_at: '2026-06-10'
+original_name: iter-0250-interview.md
+sha256: 7e1f37d39196263699050367e420f0f03bcdb3a4352088bcc8ca4746f159abfc
+processed: true
+retracted: false
+stress_type: interview
+stress_gt:
+  title: 'Rozhovor: Klára Svobodová (kampaň podzim)'
+  date: '2026-06-27'
+  interviewee: Klára Svobodová
+  role: vedoucí provozu
+  insights:
+  - Nejvíc času ztrácí ruční přepisování objednávek
+  - Tým si vede vlastní tabulky mimo systém
+  follow_ups: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: interview
+  output: 04_PEOPLE/2026-06-27-rozhovor-klara-svobodova-kampan-podzim.md

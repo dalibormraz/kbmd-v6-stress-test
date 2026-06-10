@@ -1,0 +1,32 @@
+ingested_at: '2026-06-10'
+original_name: iter-0135-meeting.md
+sha256: 8ac2143c847fea75c9d60c0fe9481f67bce814e936f8607876763325279f14c3
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: interní wiki — školení týmu'
+  date: '2026-01-04'
+  participants:
+  - Jakub Polák
+  - Jana Dvořáková
+  summary: Řešili jsme školení týmu pro projekt interní wiki; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro školení týmu použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Jakub Polák
+  actions:
+  - what: Připravit podklady k školení týmu
+    owner: Jana Dvořáková
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Jakub Polák
+    due: null
+  open_questions: []
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-01-04-schuzka-interni-wiki-skoleni-tymu.md

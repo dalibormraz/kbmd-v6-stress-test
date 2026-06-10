@@ -1,0 +1,34 @@
+ingested_at: '2026-06-10'
+original_name: iter-0168-meeting.md
+sha256: 00d67e89a35d33cc8af9a1e9e74950ca61a771c0022465729f6839746478a6df
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: datový sklad — testování'
+  date: '2026-02-13'
+  participants:
+  - Eva Horká
+  - Petr Novák
+  - Tomáš Malý
+  summary: Řešili jsme testování pro projekt datový sklad; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro testování použijeme variantu C
+    why: nejlepší poměr cena/termín
+    owner: Eva Horká
+  actions:
+  - what: Připravit podklady k testování
+    owner: Petr Novák
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Eva Horká
+    due: null
+  open_questions:
+  - Kdo schválí rozpočet za testování?
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-02-13-schuzka-datovy-sklad-testovani.md

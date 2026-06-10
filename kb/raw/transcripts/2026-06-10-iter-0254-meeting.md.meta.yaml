@@ -1,0 +1,31 @@
+ingested_at: '2026-06-10'
+original_name: iter-0254-meeting.md
+sha256: eef64ca1b35ed25b4331d8a1fd943ed116d8eb4acdfd84d817c905d6b4978a7a
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: mobilní aplikace — školení týmu'
+  date: '2026-05-02'
+  participants:
+  - Eva Horká
+  - Tomáš Malý
+  - Jana Dvořáková
+  summary: Řešili jsme školení týmu pro projekt mobilní aplikace; shoda na dalším
+    postupu a rozdělení úkolů.
+  decisions:
+  - what: Pro školení týmu použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Eva Horká
+  actions:
+  - what: Připravit podklady k školení týmu
+    owner: Tomáš Malý
+    due: do konce týdne
+  open_questions: []
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-05-02-schuzka-mobilni-aplikace-skoleni-tymu.md

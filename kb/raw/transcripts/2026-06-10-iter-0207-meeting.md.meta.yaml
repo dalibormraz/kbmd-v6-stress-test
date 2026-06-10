@@ -1,0 +1,32 @@
+ingested_at: '2026-06-10'
+original_name: iter-0207-meeting.md
+sha256: 53cdb9dec2a34e3629a7f08d0c7557ee555525de0319642baa0a2e4b5baf61ec
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: mobilní aplikace — obsah webu'
+  date: '2026-06-18'
+  participants:
+  - Marie Tichá
+  - Eva Horká
+  - Petr Novák
+  - Jana Dvořáková
+  summary: Řešili jsme obsah webu pro projekt mobilní aplikace; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro obsah webu použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Marie Tichá
+  actions:
+  - what: Připravit podklady k obsah webu
+    owner: Eva Horká
+    due: do konce týdne
+  open_questions:
+  - Kdo schválí rozpočet za obsah webu?
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-06-18-schuzka-mobilni-aplikace-obsah-webu.md

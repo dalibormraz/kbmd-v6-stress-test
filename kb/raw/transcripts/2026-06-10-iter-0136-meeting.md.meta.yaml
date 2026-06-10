@@ -1,0 +1,30 @@
+ingested_at: '2026-06-10'
+original_name: iter-0136-meeting.md
+sha256: b6a350a55c21405ad9bc0361b0452752d1a5d8961f297b6a2806bcd5cee6c5f0
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: redesign webu — migrace dat'
+  date: '2026-02-13'
+  participants:
+  - Tomáš Malý
+  - Michal Beneš
+  summary: Řešili jsme migrace dat pro projekt redesign webu; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro migrace dat použijeme variantu C
+    why: nejlepší poměr cena/termín
+    owner: Tomáš Malý
+  actions:
+  - what: Připravit podklady k migrace dat
+    owner: Michal Beneš
+    due: do konce týdne
+  open_questions: []
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-02-13-schuzka-redesign-webu-migrace-dat.md

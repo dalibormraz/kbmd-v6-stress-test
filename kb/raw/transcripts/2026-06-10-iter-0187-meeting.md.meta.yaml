@@ -1,0 +1,26 @@
+ingested_at: '2026-06-10'
+original_name: iter-0187-meeting.md
+sha256: df392b128429b12ca3541620160791ebd7958b63fe8a50afb15503f36aaa5913
+processed: false
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: rezervační systém — harmonogram'
+  date: '2026-03-14'
+  participants:
+  - Petr Novák
+  - Eva Horká
+  - Klára Svobodová
+  - Jakub Polák
+  summary: Řešili jsme harmonogram pro projekt rezervační systém; shoda na dalším
+    postupu a rozdělení úkolů.
+  decisions:
+  - what: Pro harmonogram použijeme variantu C
+    why: nejlepší poměr cena/termín
+    owner: Petr Novák
+  actions:
+  - what: Připravit podklady k harmonogram
+    owner: Eva Horká
+    due: do konce týdne
+  open_questions: []
+  risks: []

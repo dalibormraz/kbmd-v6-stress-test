@@ -1,0 +1,35 @@
+ingested_at: '2026-06-10'
+original_name: iter-0133-meeting.md
+sha256: 7c23b687d2973f2aba20f5635390840ba8b064004a459895fb329929faa0f230
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: rezervační systém — školení týmu'
+  date: '2026-05-19'
+  participants:
+  - Michal Beneš
+  - Marie Tichá
+  - Jakub Polák
+  - Petr Novák
+  summary: Řešili jsme školení týmu pro projekt rezervační systém; shoda na dalším
+    postupu a rozdělení úkolů.
+  decisions:
+  - what: Pro školení týmu použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Michal Beneš
+  actions:
+  - what: Připravit podklady k školení týmu
+    owner: Marie Tichá
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Michal Beneš
+    due: null
+  open_questions:
+  - Kdo schválí rozpočet za školení týmu?
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-05-19-schuzka-rezervacni-system-skoleni-tymu.md

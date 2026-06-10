@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0134-decision.md
+sha256: b91dd609aaeed416423bcd9a80ae63afc2c9c5f76b27c7f1a5e6d1d99d312706
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: smlouva pro redesign webu'
+  date: '2026-06-19'
+  what: Pro smlouva v projektu redesign webu zvolena varianta B.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  consequences:
+  - nutná úprava harmonogramu
+  owner: Jana Dvořáková
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-06-19-rozhodnuti-smlouva-pro-redesign-webu.md

@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0278-spec.md
+sha256: 2b4436cda7e67022d11c6035147c901a82a38612dadc297f1a8576d183af4813
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: fakturační modul — školení týmu'
+  date: '2026-01-14'
+  goal: Postavit školení týmu pro fakturační modul tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope: []
+  owner: Michal Beneš
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-01-14-zadani-fakturacni-modul-skoleni-tymu.md

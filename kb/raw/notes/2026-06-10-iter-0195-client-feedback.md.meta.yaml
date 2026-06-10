@@ -1,0 +1,19 @@
+ingested_at: '2026-06-10'
+original_name: iter-0195-client_feedback.md
+sha256: 1122249fc3343823639172a01505f045ea7015aa5b4b69ce65fadf6ecc22494b
+processed: true
+retracted: false
+stress_type: client_feedback
+stress_gt:
+  title: 'Zpětná vazba: datový sklad'
+  date: '2026-06-10'
+  source_person: Tomáš Malý
+  sentiment: negative
+  points:
+  - Líbí se přehlednost nového návrhu
+  requests: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: client_feedback
+  output: 04_PEOPLE/2026-06-10-zpetna-vazba-datovy-sklad.md

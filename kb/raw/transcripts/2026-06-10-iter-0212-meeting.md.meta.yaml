@@ -1,0 +1,30 @@
+ingested_at: '2026-06-10'
+original_name: iter-0212-meeting.md
+sha256: 34be97ba9d9896c69c56009020e017a992ad6f55927f0b0227070b2f8e6b20da
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: kampaň podzim — harmonogram'
+  date: '2026-06-18'
+  participants:
+  - Jakub Polák
+  - Marie Tichá
+  - Klára Svobodová
+  summary: Řešili jsme harmonogram pro projekt kampaň podzim; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro harmonogram použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Jakub Polák
+  actions:
+  - what: Připravit podklady k harmonogram
+    owner: Marie Tichá
+    due: do konce týdne
+  open_questions: []
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-06-18-schuzka-kampan-podzim-harmonogram.md

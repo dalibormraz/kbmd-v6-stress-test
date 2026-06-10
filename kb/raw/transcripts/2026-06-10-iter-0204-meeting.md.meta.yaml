@@ -1,0 +1,30 @@
+ingested_at: '2026-06-10'
+original_name: iter-0204-meeting.md
+sha256: d20482fc4b41f5b25dfd3a8951fb452b724227afbc3d9454799549ea5af76a41
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: datový sklad — doprava zboží'
+  date: '2026-01-26'
+  participants:
+  - Klára Svobodová
+  - Jana Dvořáková
+  summary: Řešili jsme doprava zboží pro projekt datový sklad; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro doprava zboží použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Klára Svobodová
+  actions:
+  - what: Připravit podklady k doprava zboží
+    owner: Jana Dvořáková
+    due: do konce týdne
+  open_questions: []
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-01-26-schuzka-datovy-sklad-doprava-zbozi.md

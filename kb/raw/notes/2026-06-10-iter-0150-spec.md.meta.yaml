@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0150-spec.md
+sha256: 26203501e60c8f48f84892e590a076191d8873ec227b8a1b93edfd85aca4609c
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: interní wiki — grafika'
+  date: '2026-01-01'
+  goal: Postavit grafika pro interní wiki tak, aby to zvládl běžný uživatel bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  - WHEN vstup chybí, THEN formulář ukáže srozumitelnou chybu
+  constraints: []
+  out_of_scope:
+  - mobilní aplikace
+  owner: Jana Dvořáková
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: wiki/inbox/2026-01-01-zadani-interni-wiki-grafika.md

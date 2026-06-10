@@ -1,0 +1,33 @@
+ingested_at: '2026-06-10'
+original_name: iter-0215-meeting.md
+sha256: 39955ec871a9e48442c54ab920dbfa45ad36f7d662470d16b72ebf2b6a3ac9f6
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: kampaň podzim — školení týmu'
+  date: '2026-04-08'
+  participants:
+  - Jana Dvořáková
+  - Michal Beneš
+  summary: Řešili jsme školení týmu pro projekt kampaň podzim; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro školení týmu použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Jana Dvořáková
+  actions:
+  - what: Připravit podklady k školení týmu
+    owner: Michal Beneš
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Jana Dvořáková
+    due: null
+  open_questions:
+  - Kdo schválí rozpočet za školení týmu?
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-04-08-schuzka-kampan-podzim-skoleni-tymu.md

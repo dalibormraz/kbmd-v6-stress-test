@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0148-risk_review.md
+sha256: 54bba38ab8a0909a32e304adda451895b4cba5b55919f38c13b049cc926650a7
+processed: true
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: datový sklad'
+  date: '2026-05-12'
+  project: datový sklad
+  risks:
+  - what: Zpoždění dodávky obsah webu
+    severity: high
+    mitigation: týdenní kontrola stavu
+    owner: Eva Horká
+  decisions_needed:
+  - Schválit rezervu v rozpočtu
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: risk_review
+  output: 06_RISKS/2026-05-12-revize-rizik-datovy-sklad.md

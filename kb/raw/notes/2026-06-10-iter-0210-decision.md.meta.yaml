@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0210-decision.md
+sha256: a70665989f46d6de7c7b4d41fe3066e7e5ab0910130aa1126189f30f07268bb3
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: rozpočet pro mobilní aplikace'
+  date: '2026-02-13'
+  what: Pro rozpočet v projektu mobilní aplikace zvolena varianta B.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  - odložit o kvartál
+  consequences: []
+  owner: Jana Dvořáková
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-02-13-rozhodnuti-rozpocet-pro-mobilni-aplikace.md

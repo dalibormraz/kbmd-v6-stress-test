@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0237-spec.md
+sha256: 3b4827f3a339e19c886db3bdc7062dccf0c1225573565f6021a310f21cb17805
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: kampaň podzim — doprava zboží'
+  date: '2026-03-02'
+  goal: Postavit doprava zboží pro kampaň podzim tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints: []
+  out_of_scope:
+  - mobilní aplikace
+  owner: Klára Svobodová
+  priority: should
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-03-02-zadani-kampan-podzim-doprava-zbozi.md

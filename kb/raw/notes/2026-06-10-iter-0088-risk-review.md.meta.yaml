@@ -1,7 +1,7 @@
 ingested_at: '2026-06-10'
 original_name: iter-0088-risk_review.md
 sha256: 990809ba06971c7884046125117f2af5ec3943f15f0b811015105d6a09279bce
-processed: false
+processed: true
 retracted: false
 stress_type: risk_review
 stress_gt:
@@ -15,3 +15,8 @@ stress_gt:
     owner: Marie Tichá
   decisions_needed:
   - Schválit rezervu v rozpočtu
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: risk_review
+  output: 06_RISKS/2026-04-19-revize-rizik-interni-wiki.md

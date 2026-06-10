@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0221-client_feedback.md
+sha256: 0fef7773f9418ba462530739e09118cfde738c3e7d5b41fe3384536c4ad5d03c
+processed: true
+retracted: false
+stress_type: client_feedback
+stress_gt:
+  title: 'Zpětná vazba: fakturační modul'
+  date: '2026-03-08'
+  source_person: Eva Horká
+  sentiment: positive
+  points:
+  - Líbí se přehlednost nového návrhu
+  - Vadí pomalé načítání na mobilu
+  requests:
+  - Přidat export do PDF
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: client_feedback
+  output: 04_PEOPLE/2026-03-08-zpetna-vazba-fakturacni-modul.md

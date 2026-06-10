@@ -1,7 +1,7 @@
 ingested_at: '2026-06-10'
 original_name: iter-0020-decision.md
 sha256: 0293cce60efe9ee8b6ebb7e1ed472ad04488b03a868405de2be097d3d73475f2
-processed: false
+processed: true
 retracted: false
 stress_type: decision
 stress_gt:
@@ -15,3 +15,8 @@ stress_gt:
   - nutná úprava harmonogramu
   owner: Jana Dvořáková
   priority: could
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-03-20-rozhodnuti-harmonogram-pro-rezervacni-system.md

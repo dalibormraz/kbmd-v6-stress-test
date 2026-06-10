@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0131-spec.md
+sha256: e28798e703641367af0a940de770685322f1c3c1d528e19a35b78c8f4f45f516
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: fakturační modul — harmonogram'
+  date: '2026-01-02'
+  goal: Postavit harmonogram pro fakturační modul tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints: []
+  out_of_scope:
+  - mobilní aplikace
+  owner: Ondřej Král
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-01-02-zadani-fakturacni-modul-harmonogram.md

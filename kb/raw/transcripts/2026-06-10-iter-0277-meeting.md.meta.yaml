@@ -1,0 +1,33 @@
+ingested_at: '2026-06-10'
+original_name: iter-0277-meeting.md
+sha256: e68767245d7dc71ce1f96f7c1cad60b54ad9fbbabb4a8b9b6bea035875ee1825
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: mobilní aplikace — rozpočet'
+  date: '2026-04-15'
+  participants:
+  - Petr Novák
+  - Ondřej Král
+  - Michal Beneš
+  summary: Řešili jsme rozpočet pro projekt mobilní aplikace; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro rozpočet použijeme variantu C
+    why: nejlepší poměr cena/termín
+    owner: Petr Novák
+  actions:
+  - what: Připravit podklady k rozpočet
+    owner: Ondřej Král
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Petr Novák
+    due: null
+  open_questions: []
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-04-15-schuzka-mobilni-aplikace-rozpocet.md

@@ -1,0 +1,20 @@
+ingested_at: '2026-06-10'
+original_name: iter-0158-interview.md
+sha256: fb6a67e708c4f2e35ec59630c2f148e248af4e1fa2cf3ad8954ff833bd1e3864
+processed: true
+retracted: false
+stress_type: interview
+stress_gt:
+  title: 'Rozhovor: Eva Horká (e-shop s keramikou)'
+  date: '2026-02-09'
+  interviewee: Eva Horká
+  role: vedoucí provozu
+  insights:
+  - Nejvíc času ztrácí ruční přepisování objednávek
+  follow_ups:
+  - Domluvit stínování provozu na půl dne
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: interview
+  output: 04_PEOPLE/2026-02-09-rozhovor-eva-horka-e-shop-s-keramikou.md

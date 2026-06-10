@@ -1,0 +1,14 @@
+ingested_at: '2026-06-10'
+original_name: iter-0232-interview.md
+sha256: f904ad6f647d3a42afe5629cd6243da92abbcce02b6f2901e7595b2bc2ed95ff
+processed: false
+retracted: false
+stress_type: interview
+stress_gt:
+  title: 'Rozhovor: Tomáš Malý (datový sklad)'
+  date: '2026-06-07'
+  interviewee: Tomáš Malý
+  role: vedoucí provozu
+  insights:
+  - Nejvíc času ztrácí ruční přepisování objednávek
+  follow_ups: []

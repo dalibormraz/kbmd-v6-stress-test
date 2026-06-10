@@ -1,7 +1,7 @@
 ingested_at: '2026-06-10'
 original_name: iter-0010-risk_review.md
 sha256: 3bb93607bfd07a67d9a1aad7d5d472c83cb61c3288a58e8aa06a27deb91eaa4c
-processed: false
+processed: true
 retracted: false
 stress_type: risk_review
 stress_gt:
@@ -15,3 +15,8 @@ stress_gt:
     owner: Jana Dvořáková
   decisions_needed:
   - Schválit rezervu v rozpočtu
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: risk_review
+  output: 06_RISKS/2026-03-15-revize-rizik-mobilni-aplikace.md

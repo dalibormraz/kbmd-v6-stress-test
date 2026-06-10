@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0266-spec.md
+sha256: 0b7df051ce1d8b20f61e52d1bba11a2cd61ee84011e618ba2f945614246a8c71
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: redesign webu — obsah webu'
+  date: '2026-04-23'
+  goal: Postavit obsah webu pro redesign webu tak, aby to zvládl běžný uživatel bez
+    školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  - WHEN vstup chybí, THEN formulář ukáže srozumitelnou chybu
+  constraints: []
+  out_of_scope: []
+  owner: Tomáš Malý
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-04-23-zadani-redesign-webu-obsah-webu.md

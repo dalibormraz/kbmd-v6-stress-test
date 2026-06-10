@@ -1,7 +1,7 @@
 ingested_at: '2026-06-10'
 original_name: iter-0009-client_feedback.md
 sha256: b58d7b0b7ad944fc0d4cb7223c5188800880ee3d3dc477c1f65737bdbfef5ad0
-processed: false
+processed: true
 retracted: false
 stress_type: client_feedback
 stress_gt:
@@ -13,3 +13,8 @@ stress_gt:
   - Líbí se přehlednost nového návrhu
   - Vadí pomalé načítání na mobilu
   requests: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: client_feedback
+  output: 04_PEOPLE/2026-01-04-zpetna-vazba-datovy-sklad.md

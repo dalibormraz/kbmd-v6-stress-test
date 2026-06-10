@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0265-decision.md
+sha256: 28d1ae98a6b554ddb845e80cf69caf95741106d3b380dd4ec8a804dfe6c35226
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: platební brána pro datový sklad'
+  date: '2026-04-12'
+  what: Pro platební brána v projektu datový sklad zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  - odložit o kvartál
+  consequences: []
+  owner: Jana Dvořáková
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: wiki/inbox/2026-04-12-rozhodnuti-platebni-brana-pro-datovy-sklad.md

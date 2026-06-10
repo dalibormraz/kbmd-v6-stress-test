@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0138-decision.md
+sha256: 9d9be11012f0474faa5af0661d71c76a8e277bc29084deca34e94549b0c73e58
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: harmonogram pro e-shop s keramikou'
+  date: '2026-03-20'
+  what: Pro harmonogram v projektu e-shop s keramikou zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  - odložit o kvartál
+  consequences: []
+  owner: Klára Svobodová
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-03-20-rozhodnuti-harmonogram-pro-e-shop-s-keramikou.md

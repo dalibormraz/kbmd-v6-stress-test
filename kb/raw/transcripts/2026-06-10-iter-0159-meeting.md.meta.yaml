@@ -1,0 +1,35 @@
+ingested_at: '2026-06-10'
+original_name: iter-0159-meeting.md
+sha256: be88897e75a7d362f70fc06090d5642dc81067f431b7054a056909cc71365e90
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: e-shop s keramikou — migrace dat'
+  date: '2026-02-14'
+  participants:
+  - Marie Tichá
+  - Jakub Polák
+  - Michal Beneš
+  - Eva Horká
+  summary: Řešili jsme migrace dat pro projekt e-shop s keramikou; shoda na dalším
+    postupu a rozdělení úkolů.
+  decisions:
+  - what: Pro migrace dat použijeme variantu C
+    why: nejlepší poměr cena/termín
+    owner: Marie Tichá
+  actions:
+  - what: Připravit podklady k migrace dat
+    owner: Jakub Polák
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Marie Tichá
+    due: null
+  open_questions:
+  - Kdo schválí rozpočet za migrace dat?
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: wiki/inbox/2026-02-14-schuzka-e-shop-s-keramikou-migrace-dat.md

@@ -1,0 +1,20 @@
+ingested_at: '2026-06-10'
+original_name: iter-0193-interview.md
+sha256: c9b4628ccaa0e08ef53174df05ca8b4b358bfe5016b6f5c36c4fdc6683c79559
+processed: true
+retracted: false
+stress_type: interview
+stress_gt:
+  title: 'Rozhovor: Ondřej Král (kampaň podzim)'
+  date: '2026-03-24'
+  interviewee: Ondřej Král
+  role: vedoucí provozu
+  insights:
+  - Nejvíc času ztrácí ruční přepisování objednávek
+  - Tým si vede vlastní tabulky mimo systém
+  follow_ups: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: interview
+  output: 04_PEOPLE/2026-03-24-rozhovor-ondrej-kral-kampan-podzim.md

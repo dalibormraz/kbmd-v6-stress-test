@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0255-interview.md
+sha256: c41598373d0a6b062df0b55c02cdd89bd9d0df72bbed58c3fa0d71883bddbfb9
+processed: true
+retracted: false
+stress_type: interview
+stress_gt:
+  title: 'Rozhovor: Petr Novák (kampaň podzim)'
+  date: '2026-05-24'
+  interviewee: Petr Novák
+  role: vedoucí provozu
+  insights:
+  - Nejvíc času ztrácí ruční přepisování objednávek
+  - Tým si vede vlastní tabulky mimo systém
+  follow_ups:
+  - Domluvit stínování provozu na půl dne
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: interview
+  output: 04_PEOPLE/2026-05-24-rozhovor-petr-novak-kampan-podzim.md

@@ -1,7 +1,7 @@
 ingested_at: '2026-06-10'
 original_name: iter-0111-client_feedback.md
 sha256: 534df9dc471f759703a7b2dbab925a9b2f932a659387f7f9ed38cfc89222bf96
-processed: false
+processed: true
 retracted: false
 stress_type: client_feedback
 stress_gt:
@@ -13,3 +13,8 @@ stress_gt:
   - Líbí se přehlednost nového návrhu
   requests:
   - Přidat export do PDF
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: client_feedback
+  output: 04_PEOPLE/2026-05-04-zpetna-vazba-mobilni-aplikace.md

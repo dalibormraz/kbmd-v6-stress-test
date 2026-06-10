@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0203-client_feedback.md
+sha256: 6bf15de169fd0e2a29f51e1431af864a15b0f0ab960256394e3b91c310954f3c
+processed: true
+retracted: false
+stress_type: client_feedback
+stress_gt:
+  title: 'Zpětná vazba: mobilní aplikace'
+  date: '2026-05-14'
+  source_person: Eva Horká
+  sentiment: neutral
+  points:
+  - Líbí se přehlednost nového návrhu
+  - Vadí pomalé načítání na mobilu
+  requests:
+  - Přidat export do PDF
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: client_feedback
+  output: 04_PEOPLE/2026-05-14-zpetna-vazba-mobilni-aplikace.md

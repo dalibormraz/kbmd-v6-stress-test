@@ -2,7 +2,7 @@
 title: 'Zadání: mobilní aplikace — doprava zboží'
 template: spec
 template_version: 1.0.0
-status: draft
+status: quarantined
 source: raw/notes/2026-06-10-iter-0095-spec.md
 extracted_at: '2026-06-10T18:21:59Z'
 extracted_at_date: '2026-06-10'
@@ -19,7 +19,7 @@ out_of_scope:
 - mobilní aplikace
 owner: Petr Novák
 priority: must
-needs_review_reason: povinné pole 'acceptance_criteria' chybí nebo je prázdné
+needs_review_reason: 'zdroj stažen: stress: retraction op @iter 150'
 ---
 
 # Zadání: mobilní aplikace — doprava zboží

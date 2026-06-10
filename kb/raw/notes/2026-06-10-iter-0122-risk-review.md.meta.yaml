@@ -1,0 +1,17 @@
+ingested_at: '2026-06-10'
+original_name: iter-0122-risk_review.md
+sha256: 33d29c8076ce685de06062a104c61ad35d2ee9d4df8a0c00e21ea5616e6fdc2c
+processed: false
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: e-shop s keramikou'
+  date: '2026-04-08'
+  project: e-shop s keramikou
+  risks:
+  - what: Zpoždění dodávky rozpočet
+    severity: high
+    mitigation: týdenní kontrola stavu
+    owner: Klára Svobodová
+  decisions_needed:
+  - Schválit rezervu v rozpočtu

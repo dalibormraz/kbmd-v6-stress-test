@@ -1,0 +1,35 @@
+ingested_at: '2026-06-10'
+original_name: iter-0143-meeting.md
+sha256: 24ab92a9136fc9bd42ebf78a298c9a6c99fda667a76c1bf7b8294cc79208f72b
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: redesign webu — platební brána'
+  date: '2026-03-05'
+  participants:
+  - Marie Tichá
+  - Jana Dvořáková
+  - Tomáš Malý
+  - Michal Beneš
+  summary: Řešili jsme platební brána pro projekt redesign webu; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro platební brána použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Marie Tichá
+  actions:
+  - what: Připravit podklady k platební brána
+    owner: Jana Dvořáková
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Marie Tichá
+    due: null
+  open_questions:
+  - Kdo schválí rozpočet za platební brána?
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-03-05-schuzka-redesign-webu-platebni-brana.md

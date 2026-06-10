@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0178-decision.md
+sha256: 92a843e2bbd5d35682880c7ce78590c466028f6f074d36c4fb4ba5e9ed1d1721
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: obsah webu pro e-shop s keramikou'
+  date: '2026-01-02'
+  what: Pro obsah webu v projektu e-shop s keramikou zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  consequences:
+  - nutná úprava harmonogramu
+  owner: Tomáš Malý
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-01-02-rozhodnuti-obsah-webu-pro-e-shop-s-keramikou.md

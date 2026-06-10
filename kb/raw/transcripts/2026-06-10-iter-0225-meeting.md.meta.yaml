@@ -1,0 +1,31 @@
+ingested_at: '2026-06-10'
+original_name: iter-0225-meeting.md
+sha256: 4f7fa7fdf4b55d6f6ae76fa6499336f0cbf6d200e180dbe289d00c6de4a6f489
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: kampaň podzim — školení týmu'
+  date: '2026-03-03'
+  participants:
+  - Eva Horká
+  - Klára Svobodová
+  - Jana Dvořáková
+  summary: Řešili jsme školení týmu pro projekt kampaň podzim; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro školení týmu použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Eva Horká
+  actions:
+  - what: Připravit podklady k školení týmu
+    owner: Klára Svobodová
+    due: do konce týdne
+  open_questions: []
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: true
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-03-03-schuzka-kampan-podzim-skoleni-tymu.md

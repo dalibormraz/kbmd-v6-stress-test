@@ -1,7 +1,7 @@
 ingested_at: '2026-06-10'
 original_name: iter-0002-risk_review.md
 sha256: 225f58b81e2ad358b4d68711052fe2da82fe6f3016cc778ee55171d1540a168f
-processed: false
+processed: true
 retracted: false
 stress_type: risk_review
 stress_gt:
@@ -14,3 +14,8 @@ stress_gt:
     mitigation: týdenní kontrola stavu
     owner: Klára Svobodová
   decisions_needed: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: risk_review
+  output: 06_RISKS/2026-02-16-revize-rizik-rezervacni-system.md

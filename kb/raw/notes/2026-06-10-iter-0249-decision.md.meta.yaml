@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0249-decision.md
+sha256: 9a9dff6d3fbbe59f21db17a3ec294bc40003efd73383fc58ee3d65ec49ec5204
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: školení týmu pro interní wiki'
+  date: '2026-06-09'
+  what: Pro školení týmu v projektu interní wiki zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  consequences:
+  - nutná úprava harmonogramu
+  owner: Jakub Polák
+  priority: should
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-06-09-rozhodnuti-skoleni-tymu-pro-interni-wiki.md

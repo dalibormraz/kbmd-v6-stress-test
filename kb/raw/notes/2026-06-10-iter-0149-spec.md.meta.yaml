@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0149-spec.md
+sha256: 0cb869a18c37c67c52d5ec079e3bcd6236370fb1cbc2a635ceb76d87f10e3fd2
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: fakturační modul — platební brána'
+  date: '2026-06-14'
+  goal: Postavit platební brána pro fakturační modul tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints: []
+  out_of_scope:
+  - mobilní aplikace
+  owner: Tomáš Malý
+  priority: should
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-06-14-zadani-fakturacni-modul-platebni-brana.md

@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0123-decision.md
+sha256: b9aa0b46ea4ae6dfaacd700455b4903d71638c506bf7102e041244f7567ab8f4
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: grafika pro datový sklad'
+  date: '2026-05-14'
+  what: Pro grafika v projektu datový sklad zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  consequences:
+  - nutná úprava harmonogramu
+  owner: Jakub Polák
+  priority: could
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-05-14-rozhodnuti-grafika-pro-datovy-sklad.md

@@ -1,0 +1,24 @@
+ingested_at: '2026-06-10'
+original_name: iter-0140-spec.md
+sha256: e746179e6c32c262469b9c6fbd59f8eccd96aed3e73646a85bd103cad0928e8a
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: redesign webu — migrace dat'
+  date: '2026-03-27'
+  goal: Postavit migrace dat pro redesign webu tak, aby to zvládl běžný uživatel bez
+    školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope:
+  - mobilní aplikace
+  owner: Lucie Veselá
+  priority: should
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-03-27-zadani-redesign-webu-migrace-dat.md

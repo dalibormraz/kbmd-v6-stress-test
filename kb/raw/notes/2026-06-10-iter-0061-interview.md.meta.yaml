@@ -1,7 +1,7 @@
 ingested_at: '2026-06-10'
 original_name: iter-0061-interview.md
 sha256: f6abeb27ee729f5516861b08411880926fa0e259b62cda80c089c635c5d521f7
-processed: false
+processed: true
 retracted: false
 stress_type: interview
 stress_gt:
@@ -12,3 +12,8 @@ stress_gt:
   insights:
   - Nejvíc času ztrácí ruční přepisování objednávek
   follow_ups: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: interview
+  output: 04_PEOPLE/2026-03-10-rozhovor-lucie-vesela-e-shop-s-keramikou.md

@@ -1,0 +1,19 @@
+ingested_at: '2026-06-10'
+original_name: iter-0223-client_feedback.md
+sha256: 0fbb909736cd7e719d787217411916adbe77c894b3443672a55ce92744cd6963
+processed: true
+retracted: false
+stress_type: client_feedback
+stress_gt:
+  title: 'Zpětná vazba: interní wiki'
+  date: '2026-04-11'
+  source_person: Eva Horká
+  sentiment: neutral
+  points:
+  - Líbí se přehlednost nového návrhu
+  requests: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: client_feedback
+  output: wiki/inbox/2026-04-11-zpetna-vazba-interni-wiki.md

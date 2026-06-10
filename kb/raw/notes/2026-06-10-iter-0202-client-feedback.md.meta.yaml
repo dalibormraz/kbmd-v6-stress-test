@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0202-client_feedback.md
+sha256: 0fa20b4fc9d3dec01389ace3ec685539806f5e9b77e7cb406cd0f8150bc0afee
+processed: true
+retracted: false
+stress_type: client_feedback
+stress_gt:
+  title: 'Zpětná vazba: kampaň podzim'
+  date: '2026-04-19'
+  source_person: Marie Tichá
+  sentiment: negative
+  points:
+  - Líbí se přehlednost nového návrhu
+  - Vadí pomalé načítání na mobilu
+  requests:
+  - Přidat export do PDF
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: client_feedback
+  output: 04_PEOPLE/2026-04-19-zpetna-vazba-kampan-podzim.md

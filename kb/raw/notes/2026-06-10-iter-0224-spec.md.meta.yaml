@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0224-spec.md
+sha256: dd030bd242962a2a0ebf7bb38948fa6e3769d9cc69f8655aa030f0b3ccc87a46
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: mobilní aplikace — harmonogram'
+  date: '2026-04-01'
+  goal: Postavit harmonogram pro mobilní aplikace tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints: []
+  out_of_scope: []
+  owner: Jana Dvořáková
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-04-01-zadani-mobilni-aplikace-harmonogram.md

@@ -1,0 +1,24 @@
+ingested_at: '2026-06-10'
+original_name: iter-0182-spec.md
+sha256: f1204ec5e27d345dc2394b9fc87e791c06e512a2c16dd22c93144cf54d201dc2
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: e-shop s keramikou — rozpočet'
+  date: '2026-06-08'
+  goal: Postavit rozpočet pro e-shop s keramikou tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  - WHEN vstup chybí, THEN formulář ukáže srozumitelnou chybu
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope: []
+  owner: Lucie Veselá
+  priority: should
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-06-08-zadani-e-shop-s-keramikou-rozpocet.md

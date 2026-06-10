@@ -1,0 +1,32 @@
+ingested_at: '2026-06-10'
+original_name: iter-0271-meeting.md
+sha256: b705f2f0cf8773a02cb4fbc749631c0aad9b4ebb6cb7e76606683b8ff8d75e76
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: datový sklad — rozpočet'
+  date: '2026-05-24'
+  participants:
+  - Tomáš Malý
+  - Marie Tichá
+  - Petr Novák
+  summary: Řešili jsme rozpočet pro projekt datový sklad; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro rozpočet použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Tomáš Malý
+  actions:
+  - what: Připravit podklady k rozpočet
+    owner: Marie Tichá
+    due: do konce týdne
+  open_questions:
+  - Kdo schválí rozpočet za rozpočet?
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-05-24-schuzka-datovy-sklad-rozpocet.md

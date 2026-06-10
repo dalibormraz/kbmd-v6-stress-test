@@ -1,0 +1,35 @@
+ingested_at: '2026-06-10'
+original_name: iter-0190-meeting.md
+sha256: 594890d1fe0c5338f4fd9341adc9868d071f1f06a758531dab0d5809a56204d6
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: mobilní aplikace — grafika'
+  date: '2026-06-04'
+  participants:
+  - Klára Svobodová
+  - Petr Novák
+  - Eva Horká
+  summary: Řešili jsme grafika pro projekt mobilní aplikace; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro grafika použijeme variantu C
+    why: nejlepší poměr cena/termín
+    owner: Klára Svobodová
+  actions:
+  - what: Připravit podklady k grafika
+    owner: Petr Novák
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Klára Svobodová
+    due: null
+  open_questions:
+  - Kdo schválí rozpočet za grafika?
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-06-04-schuzka-mobilni-aplikace-grafika.md

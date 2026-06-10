@@ -1,0 +1,26 @@
+ingested_at: '2026-06-10'
+original_name: iter-0163-meeting.md
+sha256: 3a3ecd368a9842f19625a0ea10930773f2cd571230b710aecb2b0da7fd39a277
+processed: false
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: fakturační modul — rozpočet'
+  date: '2026-01-11'
+  participants:
+  - Ondřej Král
+  - Petr Novák
+  - Klára Svobodová
+  - Jana Dvořáková
+  summary: Řešili jsme rozpočet pro projekt fakturační modul; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions: []
+  actions:
+  - what: Připravit podklady k rozpočet
+    owner: Petr Novák
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Ondřej Král
+    due: null
+  open_questions: []
+  risks: []

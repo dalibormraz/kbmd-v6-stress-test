@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0217-spec.md
+sha256: 760a764fe514c0c639125293b9cf83358b97ed06903ef904c29da4e866846d99
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: datový sklad — doprava zboží'
+  date: '2026-01-24'
+  goal: Postavit doprava zboží pro datový sklad tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope: []
+  owner: Michal Beneš
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-01-24-zadani-datovy-sklad-doprava-zbozi.md

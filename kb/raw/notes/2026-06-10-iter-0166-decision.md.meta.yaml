@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0166-decision.md
+sha256: 4509e9c4087bf31f336b21d42adfdc6a47cd2fd502b2e00789303b87256c6b40
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: platební brána pro rezervační systém'
+  date: '2026-05-18'
+  what: Pro platební brána v projektu rezervační systém zvolena varianta B.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  - odložit o kvartál
+  consequences: []
+  owner: Michal Beneš
+  priority: should
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-05-18-rozhodnuti-platebni-brana-pro-rezervacni-system.md

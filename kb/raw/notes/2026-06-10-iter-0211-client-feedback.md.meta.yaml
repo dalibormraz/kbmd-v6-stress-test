@@ -1,0 +1,19 @@
+ingested_at: '2026-06-10'
+original_name: iter-0211-client_feedback.md
+sha256: 363a8b6584d2796a13b66959cafa08fbffdc49b6c0c75247b828ad4f31756cfe
+processed: true
+retracted: false
+stress_type: client_feedback
+stress_gt:
+  title: 'Zpětná vazba: e-shop s keramikou'
+  date: '2026-04-20'
+  source_person: Jakub Polák
+  sentiment: positive
+  points:
+  - Líbí se přehlednost nového návrhu
+  requests: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: client_feedback
+  output: 04_PEOPLE/2026-04-20-zpetna-vazba-e-shop-s-keramikou.md

@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0213-decision.md
+sha256: 804119366e77f89ab3cb7ceb4350cbaa8bf82115a30b1b61681eeb50805ccd1a
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: testování pro redesign webu'
+  date: '2026-03-27'
+  what: Pro testování v projektu redesign webu zvolena varianta B.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  - odložit o kvartál
+  consequences: []
+  owner: Jakub Polák
+  priority: should
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-03-27-rozhodnuti-testovani-pro-redesign-webu.md

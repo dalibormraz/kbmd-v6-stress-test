@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0270-decision.md
+sha256: a8e95b55c55a0f617f5282395ca28940dbd18e5266178ef4d69861e2ed7165af
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: doprava zboží pro e-shop s keramikou'
+  date: '2026-01-17'
+  what: Pro doprava zboží v projektu e-shop s keramikou zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  consequences: []
+  owner: Ondřej Král
+  priority: should
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-01-17-rozhodnuti-doprava-zbozi-pro-e-shop-s-keramikou.md

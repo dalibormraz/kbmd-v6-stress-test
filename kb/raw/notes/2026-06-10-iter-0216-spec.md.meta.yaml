@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0216-spec.md
+sha256: eb873bec79cd224ce6ffaa669e5d29bc66f87414d2b6f65ef089e84bcfb1bd7f
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: fakturační modul — doprava zboží'
+  date: '2026-06-28'
+  goal: Postavit doprava zboží pro fakturační modul tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  - WHEN vstup chybí, THEN formulář ukáže srozumitelnou chybu
+  constraints: []
+  out_of_scope: []
+  owner: Jakub Polák
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-06-28-zadani-fakturacni-modul-doprava-zbozi.md
