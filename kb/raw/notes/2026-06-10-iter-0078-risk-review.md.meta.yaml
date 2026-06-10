@@ -1,0 +1,17 @@
+ingested_at: '2026-06-10'
+original_name: iter-0078-risk_review.md
+sha256: f4b39a4605596b65f98d1c9045070b0c5ef3064fbfaf44e517da2a736f02e615
+processed: false
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: fakturační modul'
+  date: '2026-06-20'
+  project: fakturační modul
+  risks:
+  - what: Zpoždění dodávky smlouva
+    severity: high
+    mitigation: týdenní kontrola stavu
+    owner: Lucie Veselá
+  decisions_needed:
+  - Schválit rezervu v rozpočtu

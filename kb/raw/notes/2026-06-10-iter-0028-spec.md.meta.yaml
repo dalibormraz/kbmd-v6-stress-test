@@ -1,0 +1,25 @@
+ingested_at: '2026-06-10'
+original_name: iter-0028-spec.md
+sha256: a24f250a7c8cbc1f77e1ef11b106a7ccfab67353a760dfd03d1db6679d3b4cf6
+processed: true
+retracted: true
+stress_type: spec
+stress_gt:
+  title: 'Zadání: redesign webu — platební brána'
+  date: '2026-04-23'
+  goal: Postavit platební brána pro redesign webu tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  - WHEN vstup chybí, THEN formulář ukáže srozumitelnou chybu
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope: []
+  owner: Ondřej Král
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-04-23-zadani-redesign-webu-platebni-brana.md
+retracted_reason: 'stress: retraction op @iter 50'

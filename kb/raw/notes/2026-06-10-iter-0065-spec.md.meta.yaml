@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0065-spec.md
+sha256: f6f7c5377a8bcdc4a20b001d0b2317fac927e8962c0146cb40c6b0fad6f0aa8a
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: rezervační systém — obsah webu'
+  date: '2026-03-19'
+  goal: Postavit obsah webu pro rezervační systém tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope: []
+  owner: Eva Horká
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-03-19-zadani-rezervacni-system-obsah-webu.md

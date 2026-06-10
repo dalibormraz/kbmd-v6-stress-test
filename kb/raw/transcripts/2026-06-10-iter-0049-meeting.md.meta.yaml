@@ -1,0 +1,31 @@
+ingested_at: '2026-06-10'
+original_name: iter-0049-meeting.md
+sha256: a0541e52d958189b190ffd4ee9382f266c8ecc2bc62971e409760fe851e6f55f
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: redesign webu — doprava zboží'
+  date: '2026-04-04'
+  participants:
+  - Ondřej Král
+  - Marie Tichá
+  - Jana Dvořáková
+  - Klára Svobodová
+  summary: Řešili jsme doprava zboží pro projekt redesign webu; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro doprava zboží použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Ondřej Král
+  actions:
+  - what: Připravit podklady k doprava zboží
+    owner: Marie Tichá
+    due: do konce týdne
+  open_questions: []
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-04-04-schuzka-redesign-webu-doprava-zbozi.md

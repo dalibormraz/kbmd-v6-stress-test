@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0103-decision.md
+sha256: 402cc652beb295699b5996e60a29c44b3527379304a11896d18e704e7ce4c886
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: grafika pro mobilní aplikace'
+  date: '2026-02-19'
+  what: Pro grafika v projektu mobilní aplikace zvolena varianta B.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  - odložit o kvartál
+  consequences: []
+  owner: Klára Svobodová
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-02-19-rozhodnuti-grafika-pro-mobilni-aplikace.md

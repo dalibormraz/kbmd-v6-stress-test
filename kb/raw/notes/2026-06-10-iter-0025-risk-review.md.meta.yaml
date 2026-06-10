@@ -1,0 +1,17 @@
+ingested_at: '2026-06-10'
+original_name: iter-0025-risk_review.md
+sha256: 4d9fd10ffb767c4f275a3c4d3170226af6161482a2f2420e70683dfb13c764e4
+processed: false
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: rezervační systém'
+  date: '2026-02-13'
+  project: rezervační systém
+  risks:
+  - what: Zpoždění dodávky harmonogram
+    severity: medium
+    mitigation: týdenní kontrola stavu
+    owner: Klára Svobodová
+  decisions_needed:
+  - Schválit rezervu v rozpočtu

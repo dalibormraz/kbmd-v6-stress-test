@@ -1,0 +1,34 @@
+ingested_at: '2026-06-10'
+original_name: iter-0114-meeting.md
+sha256: 23a7aa81e842ac46e26ea7b81b0c35f5109faf5c875c409a3d09ec630369c53f
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: rezervační systém — obsah webu'
+  date: '2026-04-25'
+  participants:
+  - Marie Tichá
+  - Petr Novák
+  - Jakub Polák
+  summary: Řešili jsme obsah webu pro projekt rezervační systém; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro obsah webu použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Marie Tichá
+  actions:
+  - what: Připravit podklady k obsah webu
+    owner: Petr Novák
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Marie Tichá
+    due: null
+  open_questions: []
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-04-25-schuzka-rezervacni-system-obsah-webu.md

@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0003-decision.md
+sha256: 3f750241a12e3ea3c90768f75a8ea8d2670902d2a7b15b45acb7b22f11c97524
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: rozpočet pro interní wiki'
+  date: '2026-05-06'
+  what: Pro rozpočet v projektu interní wiki zvolena varianta B.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  consequences:
+  - nutná úprava harmonogramu
+  owner: Tomáš Malý
+  priority: could
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-05-06-rozhodnuti-rozpocet-pro-interni-wiki.md

@@ -1,0 +1,32 @@
+ingested_at: '2026-06-10'
+original_name: iter-0075-meeting.md
+sha256: 61be44dd0cdc95ab682a04cba341bca53000ff63873adf73d4b963e735b81ea3
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: mobilní aplikace — školení týmu'
+  date: '2026-02-23'
+  participants:
+  - Jana Dvořáková
+  - Klára Svobodová
+  - Marie Tichá
+  summary: Řešili jsme školení týmu pro projekt mobilní aplikace; shoda na dalším
+    postupu a rozdělení úkolů.
+  decisions:
+  - what: Pro školení týmu použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Jana Dvořáková
+  actions:
+  - what: Připravit podklady k školení týmu
+    owner: Klára Svobodová
+    due: do konce týdne
+  open_questions:
+  - Kdo schválí rozpočet za školení týmu?
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-02-23-schuzka-mobilni-aplikace-skoleni-tymu.md

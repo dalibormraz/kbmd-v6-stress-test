@@ -1,0 +1,14 @@
+ingested_at: '2026-06-10'
+original_name: iter-0076-client_feedback.md
+sha256: f2e30ad6d2ced945eccdac5e9290b3ad1807e3739c3bfe69f4eaec668af91fe1
+processed: false
+retracted: false
+stress_type: client_feedback
+stress_gt:
+  title: 'Zpětná vazba: interní wiki'
+  date: '2026-03-27'
+  source_person: Michal Beneš
+  sentiment: neutral
+  points:
+  - Líbí se přehlednost nového návrhu
+  requests: []

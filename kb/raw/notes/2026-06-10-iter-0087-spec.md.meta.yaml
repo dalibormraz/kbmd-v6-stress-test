@@ -1,0 +1,24 @@
+ingested_at: '2026-06-10'
+original_name: iter-0087-spec.md
+sha256: 28c4cad16f7a58c17b4c74d6ad2e149b039c6cc95964a4bc704b26df1dfc8505
+processed: true
+retracted: true
+stress_type: spec
+stress_gt:
+  title: 'Zadání: datový sklad — harmonogram'
+  date: '2026-01-20'
+  goal: Postavit harmonogram pro datový sklad tak, aby to zvládl běžný uživatel bez
+    školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints: []
+  out_of_scope:
+  - mobilní aplikace
+  owner: Michal Beneš
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-01-20-zadani-datovy-sklad-harmonogram.md
+retracted_reason: 'stress: retraction op @iter 100'

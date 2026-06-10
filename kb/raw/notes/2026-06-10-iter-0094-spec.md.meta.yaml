@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0094-spec.md
+sha256: 9f59b2ce39d251e9dc8343da34778389eb487b73c0fdd30fe1bf93b7e6de996e
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: fakturační modul — testování'
+  date: '2026-05-11'
+  goal: Postavit testování pro fakturační modul tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope: []
+  owner: Klára Svobodová
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-05-11-zadani-fakturacni-modul-testovani.md

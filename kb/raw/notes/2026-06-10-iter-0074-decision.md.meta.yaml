@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0074-decision.md
+sha256: 5e604c0b26111bd329d808f1328396708e0e219988d2d2041478e47a798f5771
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: školení týmu pro mobilní aplikace'
+  date: '2026-03-13'
+  what: Pro školení týmu v projektu mobilní aplikace zvolena varianta B.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  - odložit o kvartál
+  consequences:
+  - nutná úprava harmonogramu
+  owner: Ondřej Král
+  priority: could
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-03-13-rozhodnuti-skoleni-tymu-pro-mobilni-aplikace.md

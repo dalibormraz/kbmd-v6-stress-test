@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0056-decision.md
+sha256: ea3490da15b53848b3533660e1fdc96c57cb95f4f87a5078b0c888b33146adf0
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: smlouva pro datový sklad'
+  date: '2026-03-20'
+  what: Pro smlouva v projektu datový sklad zvolena varianta B.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  consequences:
+  - nutná úprava harmonogramu
+  owner: Lucie Veselá
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-03-20-rozhodnuti-smlouva-pro-datovy-sklad.md

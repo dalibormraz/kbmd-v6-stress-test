@@ -1,0 +1,33 @@
+ingested_at: '2026-06-10'
+original_name: iter-0018-meeting.md
+sha256: 22cfd83970b556d4d2ee8b5b878f396ab77cd8e08f4f77a014c565279cfd32a3
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: mobilní aplikace — platební brána'
+  date: '2026-03-11'
+  participants:
+  - Michal Beneš
+  - Jakub Polák
+  summary: Řešili jsme platební brána pro projekt mobilní aplikace; shoda na dalším
+    postupu a rozdělení úkolů.
+  decisions:
+  - what: Pro platební brána použijeme variantu C
+    why: nejlepší poměr cena/termín
+    owner: Michal Beneš
+  actions:
+  - what: Připravit podklady k platební brána
+    owner: Jakub Polák
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Michal Beneš
+    due: null
+  open_questions: []
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: wiki/inbox/2026-03-11-schuzka-mobilni-aplikace-platebni-brana.md

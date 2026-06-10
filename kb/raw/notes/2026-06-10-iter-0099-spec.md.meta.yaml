@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0099-spec.md
+sha256: ffbed9d3dd8a214336c6b4c5f7547128ba91915c83c06fa8ee39bc3d1d63992d
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: e-shop s keramikou — grafika'
+  date: '2026-02-24'
+  goal: Postavit grafika pro e-shop s keramikou tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints: []
+  out_of_scope:
+  - mobilní aplikace
+  owner: Jana Dvořáková
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-02-24-zadani-e-shop-s-keramikou-grafika.md

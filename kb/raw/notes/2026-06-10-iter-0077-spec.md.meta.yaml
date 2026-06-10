@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0077-spec.md
+sha256: 1aa5d925816b2aed6665071e8d96efcaa6f43e9ce148f6413ff399dd829ceacc
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: fakturační modul — testování'
+  date: '2026-02-16'
+  goal: Postavit testování pro fakturační modul tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope: []
+  owner: Tomáš Malý
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-02-16-zadani-fakturacni-modul-testovani.md

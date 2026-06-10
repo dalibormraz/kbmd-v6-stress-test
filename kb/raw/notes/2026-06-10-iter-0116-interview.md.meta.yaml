@@ -1,0 +1,15 @@
+ingested_at: '2026-06-10'
+original_name: iter-0116-interview.md
+sha256: f9a17e514d7f5c105f3258311d2aa5bd450edd642c06ac4cf0ed2552c81411f4
+processed: false
+retracted: false
+stress_type: interview
+stress_gt:
+  title: 'Rozhovor: Ondřej Král (fakturační modul)'
+  date: '2026-04-09'
+  interviewee: Ondřej Král
+  role: vedoucí provozu
+  insights:
+  - Nejvíc času ztrácí ruční přepisování objednávek
+  - Tým si vede vlastní tabulky mimo systém
+  follow_ups: []

@@ -1,0 +1,15 @@
+ingested_at: '2026-06-10'
+original_name: iter-0029-interview.md
+sha256: 79a3b29463cbbaf8aaeb8d3f3541c6c59215993cb87eab3654e3d6c9e03014c3
+processed: false
+retracted: false
+stress_type: interview
+stress_gt:
+  title: 'Rozhovor: Marie Tichá (mobilní aplikace)'
+  date: '2026-01-23'
+  interviewee: Marie Tichá
+  role: vedoucí provozu
+  insights:
+  - Nejvíc času ztrácí ruční přepisování objednávek
+  - Tým si vede vlastní tabulky mimo systém
+  follow_ups: []

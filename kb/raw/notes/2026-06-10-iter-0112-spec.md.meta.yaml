@@ -1,0 +1,24 @@
+ingested_at: '2026-06-10'
+original_name: iter-0112-spec.md
+sha256: 11c6db09626491217d28fe622c21b66d4c2b59a80c92aaca2b899518aaf312c6
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: kampaň podzim — rozpočet'
+  date: '2026-02-26'
+  goal: Postavit rozpočet pro kampaň podzim tak, aby to zvládl běžný uživatel bez
+    školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  - WHEN vstup chybí, THEN formulář ukáže srozumitelnou chybu
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope: []
+  owner: Petr Novák
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-02-26-zadani-kampan-podzim-rozpocet.md

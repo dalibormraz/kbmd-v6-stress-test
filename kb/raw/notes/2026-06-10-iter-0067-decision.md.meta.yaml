@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0067-decision.md
+sha256: fb2509061644310453937ad01574d09fb56024c3f80c19fe95329e1fc725eac4
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: harmonogram pro rezervační systém'
+  date: '2026-06-11'
+  what: Pro harmonogram v projektu rezervační systém zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  consequences:
+  - nutná úprava harmonogramu
+  owner: Marie Tichá
+  priority: should
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-06-11-rozhodnuti-harmonogram-pro-rezervacni-system.md

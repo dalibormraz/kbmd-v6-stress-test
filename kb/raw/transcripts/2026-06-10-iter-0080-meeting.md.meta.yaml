@@ -1,0 +1,34 @@
+ingested_at: '2026-06-10'
+original_name: iter-0080-meeting.md
+sha256: bc32124dca9100c9b67f6605d29eb9a3cdd2dc71fd20144857ba629051dadc37
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: fakturační modul — platební brána'
+  date: '2026-01-20'
+  participants:
+  - Eva Horká
+  - Jakub Polák
+  - Marie Tichá
+  summary: Řešili jsme platební brána pro projekt fakturační modul; shoda na dalším
+    postupu a rozdělení úkolů.
+  decisions:
+  - what: Pro platební brána použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Eva Horká
+  actions:
+  - what: Připravit podklady k platební brána
+    owner: Jakub Polák
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Eva Horká
+    due: null
+  open_questions: []
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-01-20-schuzka-fakturacni-modul-platebni-brana.md

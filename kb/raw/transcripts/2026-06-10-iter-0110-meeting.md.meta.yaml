@@ -1,0 +1,34 @@
+ingested_at: '2026-06-10'
+original_name: iter-0110-meeting.md
+sha256: c67be4f22a02a2fd64ebced6165663136d81d79694e4571456e67df282f1324c
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: fakturační modul — grafika'
+  date: '2026-02-05'
+  participants:
+  - Jakub Polák
+  - Michal Beneš
+  - Ondřej Král
+  summary: Řešili jsme grafika pro projekt fakturační modul; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro grafika použijeme variantu C
+    why: nejlepší poměr cena/termín
+    owner: Jakub Polák
+  actions:
+  - what: Připravit podklady k grafika
+    owner: Michal Beneš
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Jakub Polák
+    due: null
+  open_questions: []
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-02-05-schuzka-fakturacni-modul-grafika.md

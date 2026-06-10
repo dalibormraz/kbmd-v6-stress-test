@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0105-decision.md
+sha256: baa8e30e023bef67106fc440af7c3a3754895af88420c1219b83a8caff42c07a
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: platební brána pro datový sklad'
+  date: '2026-01-22'
+  what: Pro platební brána v projektu datový sklad zvolena varianta B.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  - odložit o kvartál
+  consequences: []
+  owner: Eva Horká
+  priority: could
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-01-22-rozhodnuti-platebni-brana-pro-datovy-sklad.md

@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0071-decision.md
+sha256: 34b71070a1641edfcf1c3dbf5e76f643e2ca70c77a9d95ad14f80a1d8683b357
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: doprava zboží pro redesign webu'
+  date: '2026-02-03'
+  what: Pro doprava zboží v projektu redesign webu zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  - odložit o kvartál
+  consequences: []
+  owner: Petr Novák
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-02-03-rozhodnuti-doprava-zbozi-pro-redesign-webu.md

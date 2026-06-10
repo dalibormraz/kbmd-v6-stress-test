@@ -1,0 +1,17 @@
+ingested_at: '2026-06-10'
+original_name: iter-0079-risk_review.md
+sha256: 4bffc770a384bb1ba61a746eafe8808cf0f2333a25d0372df8fa3ce3f868a4fb
+processed: false
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: redesign webu'
+  date: '2026-03-09'
+  project: redesign webu
+  risks:
+  - what: Zpoždění dodávky migrace dat
+    severity: medium
+    mitigation: týdenní kontrola stavu
+    owner: Michal Beneš
+  decisions_needed:
+  - Schválit rezervu v rozpočtu

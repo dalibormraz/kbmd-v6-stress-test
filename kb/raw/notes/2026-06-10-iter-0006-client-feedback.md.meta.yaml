@@ -1,0 +1,15 @@
+ingested_at: '2026-06-10'
+original_name: iter-0006-client_feedback.md
+sha256: 11ab8fc86e33ffec9e059e93540cc76f4670b8059ec646498166f96be15e77cd
+processed: false
+retracted: false
+stress_type: client_feedback
+stress_gt:
+  title: 'Zpětná vazba: datový sklad'
+  date: '2026-05-03'
+  source_person: Lucie Veselá
+  sentiment: positive
+  points:
+  - Líbí se přehlednost nového návrhu
+  requests:
+  - Přidat export do PDF

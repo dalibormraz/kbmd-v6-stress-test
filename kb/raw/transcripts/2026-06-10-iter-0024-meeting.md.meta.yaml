@@ -1,0 +1,30 @@
+ingested_at: '2026-06-10'
+original_name: iter-0024-meeting.md
+sha256: 7a3d8094c36faa081d25706136c21b5f7562b950cb538ed328847fc293a914b3
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: rezervační systém — platební brána'
+  date: '2026-03-21'
+  participants:
+  - Eva Horká
+  - Klára Svobodová
+  - Marie Tichá
+  summary: Řešili jsme platební brána pro projekt rezervační systém; shoda na dalším
+    postupu a rozdělení úkolů.
+  decisions:
+  - what: Pro platební brána použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Eva Horká
+  actions:
+  - what: Připravit podklady k platební brána
+    owner: Klára Svobodová
+    due: do konce týdne
+  open_questions: []
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: wiki/inbox/2026-03-21-schuzka-rezervacni-system-platebni-brana.md

@@ -1,0 +1,17 @@
+ingested_at: '2026-06-10'
+original_name: iter-0050-risk_review.md
+sha256: f505271caf9b386972a55cd51e7b99aafcfd4ef3abc018bb7c34bf63ddcefe4c
+processed: false
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: kampaň podzim'
+  date: '2026-01-27'
+  project: kampaň podzim
+  risks:
+  - what: Zpoždění dodávky grafika
+    severity: low
+    mitigation: týdenní kontrola stavu
+    owner: Jana Dvořáková
+  decisions_needed:
+  - Schválit rezervu v rozpočtu

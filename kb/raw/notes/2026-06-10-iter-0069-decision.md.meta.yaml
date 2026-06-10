@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0069-decision.md
+sha256: 05caad807fa8d8b68aead2d747febe71a14e35aef7681609b73e8e04438623ec
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: testování pro datový sklad'
+  date: '2026-05-14'
+  what: Pro testování v projektu datový sklad zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  consequences: []
+  owner: Lucie Veselá
+  priority: should
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-05-14-rozhodnuti-testovani-pro-datovy-sklad.md

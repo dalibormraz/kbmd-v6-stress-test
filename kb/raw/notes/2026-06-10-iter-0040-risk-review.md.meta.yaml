@@ -1,0 +1,16 @@
+ingested_at: '2026-06-10'
+original_name: iter-0040-risk_review.md
+sha256: c505ef4f628e55ad852916e4ba908fba6192c8828d1a6a3827786c63f6a5ef44
+processed: false
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: datový sklad'
+  date: '2026-06-24'
+  project: datový sklad
+  risks:
+  - what: Zpoždění dodávky smlouva
+    severity: low
+    mitigation: týdenní kontrola stavu
+    owner: Marie Tichá
+  decisions_needed: []

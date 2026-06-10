@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0048-decision.md
+sha256: 53ed57e2c2a33888f8c413aed1916d0ab548cf78cd17ce3a4589f15d282769ee
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: grafika pro interní wiki'
+  date: '2026-06-07'
+  what: Pro grafika v projektu interní wiki zvolena varianta B.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  consequences: []
+  owner: Eva Horká
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-06-07-rozhodnuti-grafika-pro-interni-wiki.md

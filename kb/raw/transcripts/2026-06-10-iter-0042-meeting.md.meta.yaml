@@ -1,0 +1,30 @@
+ingested_at: '2026-06-10'
+original_name: iter-0042-meeting.md
+sha256: df4034ed316c0f6c7a74eced594c1e88e678ba9b6bdec3b38c6c2e376238f2a7
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: datový sklad — grafika'
+  date: '2026-06-23'
+  participants:
+  - Lucie Veselá
+  - Michal Beneš
+  summary: Řešili jsme grafika pro projekt datový sklad; shoda na dalším postupu a
+    rozdělení úkolů.
+  decisions:
+  - what: Pro grafika použijeme variantu C
+    why: nejlepší poměr cena/termín
+    owner: Lucie Veselá
+  actions:
+  - what: Připravit podklady k grafika
+    owner: Michal Beneš
+    due: do konce týdne
+  open_questions:
+  - Kdo schválí rozpočet za grafika?
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-06-23-schuzka-datovy-sklad-grafika.md

@@ -1,0 +1,17 @@
+ingested_at: '2026-06-10'
+original_name: iter-0052-risk_review.md
+sha256: 61d67c425cdb123dbe4f997e6fff1d89f2118c8afa94e2d6b0b51f047960bab2
+processed: false
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: fakturační modul'
+  date: '2026-03-02'
+  project: fakturační modul
+  risks:
+  - what: Zpoždění dodávky obsah webu
+    severity: high
+    mitigation: týdenní kontrola stavu
+    owner: Petr Novák
+  decisions_needed:
+  - Schválit rezervu v rozpočtu

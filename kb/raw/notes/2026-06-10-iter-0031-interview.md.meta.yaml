@@ -1,0 +1,16 @@
+ingested_at: '2026-06-10'
+original_name: iter-0031-interview.md
+sha256: 34a28fd8ee2057a7f09b2a7a46082eaed0a60f194e4c48d5ca6b1d52108f1708
+processed: false
+retracted: false
+stress_type: interview
+stress_gt:
+  title: 'Rozhovor: Jakub Polák (datový sklad)'
+  date: '2026-02-25'
+  interviewee: Jakub Polák
+  role: vedoucí provozu
+  insights:
+  - Nejvíc času ztrácí ruční přepisování objednávek
+  - Tým si vede vlastní tabulky mimo systém
+  follow_ups:
+  - Domluvit stínování provozu na půl dne

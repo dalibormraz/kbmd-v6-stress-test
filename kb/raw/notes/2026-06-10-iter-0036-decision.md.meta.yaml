@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0036-decision.md
+sha256: 59c33923de01ed6ec8211f895889bed6bd3411f49413ea3f842d2ac03f619ccc
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: grafika pro redesign webu'
+  date: '2026-03-14'
+  what: Pro grafika v projektu redesign webu zvolena varianta B.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  - odložit o kvartál
+  consequences:
+  - nutná úprava harmonogramu
+  owner: Jana Dvořáková
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-03-14-rozhodnuti-grafika-pro-redesign-webu.md

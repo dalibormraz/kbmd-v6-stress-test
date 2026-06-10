@@ -1,0 +1,25 @@
+ingested_at: '2026-06-10'
+original_name: iter-0085-meeting.md
+sha256: 88931f73ab03daa39b580c4e6625bc81fa7bfcdcfe092e31c85bcad8896feb2e
+processed: false
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: redesign webu — doprava zboží'
+  date: '2026-04-08'
+  participants:
+  - Jana Dvořáková
+  - Ondřej Král
+  summary: Řešili jsme doprava zboží pro projekt redesign webu; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions: []
+  actions:
+  - what: Připravit podklady k doprava zboží
+    owner: Ondřej Král
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Jana Dvořáková
+    due: null
+  open_questions: []
+  risks:
+  - Možné zpoždění kvůli dovoleným

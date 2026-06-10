@@ -1,0 +1,30 @@
+ingested_at: '2026-06-10'
+original_name: iter-0005-meeting.md
+sha256: c41d2fe6548092d0bec8ac8ca0ff66e5b17a2e09e4803f7ae280ce6897074873
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: fakturační modul — rozpočet'
+  date: '2026-03-01'
+  participants:
+  - Ondřej Král
+  - Petr Novák
+  summary: Řešili jsme rozpočet pro projekt fakturační modul; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro rozpočet použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Ondřej Král
+  actions:
+  - what: Připravit podklady k rozpočet
+    owner: Petr Novák
+    due: do konce týdne
+  open_questions: []
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-03-01-schuzka-fakturacni-modul-rozpocet.md

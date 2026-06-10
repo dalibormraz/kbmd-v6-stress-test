@@ -1,0 +1,33 @@
+ingested_at: '2026-06-10'
+original_name: iter-0090-meeting.md
+sha256: 7e6aede1ab09cc7615b94b0ac0930f4f8e55f021de3408e58853864d38d6c3f3
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: fakturační modul — harmonogram'
+  date: '2026-05-22'
+  participants:
+  - Lucie Veselá
+  - Jana Dvořáková
+  summary: Řešili jsme harmonogram pro projekt fakturační modul; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro harmonogram použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Lucie Veselá
+  actions:
+  - what: Připravit podklady k harmonogram
+    owner: Jana Dvořáková
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Lucie Veselá
+    due: null
+  open_questions: []
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-05-22-schuzka-fakturacni-modul-harmonogram.md

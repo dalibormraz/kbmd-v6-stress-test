@@ -1,0 +1,24 @@
+ingested_at: '2026-06-10'
+original_name: iter-0072-spec.md
+sha256: 96e967cc745a3b111279b68052093046338a63b265b8024e968868b936220c63
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: fakturační modul — smlouva'
+  date: '2026-02-17'
+  goal: Postavit smlouva pro fakturační modul tak, aby to zvládl běžný uživatel bez
+    školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope:
+  - mobilní aplikace
+  owner: Lucie Veselá
+  priority: should
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-02-17-zadani-fakturacni-modul-smlouva.md

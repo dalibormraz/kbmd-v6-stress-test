@@ -1,0 +1,17 @@
+ingested_at: '2026-06-10'
+original_name: iter-0026-risk_review.md
+sha256: 1a546981686e0c9a9bf2d4308045f5128b43febaed275148b1fa855432193037
+processed: false
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: fakturační modul'
+  date: '2026-06-15'
+  project: fakturační modul
+  risks:
+  - what: Zpoždění dodávky testování
+    severity: low
+    mitigation: týdenní kontrola stavu
+    owner: Eva Horká
+  decisions_needed:
+  - Schválit rezervu v rozpočtu

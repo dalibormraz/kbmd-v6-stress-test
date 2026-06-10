@@ -1,0 +1,35 @@
+ingested_at: '2026-06-10'
+original_name: iter-0097-meeting.md
+sha256: 1cbdcfa3794b8c145aae1e6ad4db4e7557fb19d203692174adb50bcb3e339522
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: kampaň podzim — grafika'
+  date: '2026-01-16'
+  participants:
+  - Jakub Polák
+  - Lucie Veselá
+  - Klára Svobodová
+  - Petr Novák
+  summary: Řešili jsme grafika pro projekt kampaň podzim; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro grafika použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Jakub Polák
+  actions:
+  - what: Připravit podklady k grafika
+    owner: Lucie Veselá
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Jakub Polák
+    due: null
+  open_questions:
+  - Kdo schválí rozpočet za grafika?
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-01-16-schuzka-kampan-podzim-grafika.md

@@ -1,0 +1,15 @@
+ingested_at: '2026-06-10'
+original_name: iter-0117-interview.md
+sha256: 878ef2e554c046155cfbf73dfb9234eab756d5962fb233edfada4be924114afb
+processed: false
+retracted: false
+stress_type: interview
+stress_gt:
+  title: 'Rozhovor: Eva Horká (datový sklad)'
+  date: '2026-03-18'
+  interviewee: Eva Horká
+  role: vedoucí provozu
+  insights:
+  - Nejvíc času ztrácí ruční přepisování objednávek
+  - Tým si vede vlastní tabulky mimo systém
+  follow_ups: []

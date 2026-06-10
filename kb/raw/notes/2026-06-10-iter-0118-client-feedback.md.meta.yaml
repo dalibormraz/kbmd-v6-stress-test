@@ -1,0 +1,15 @@
+ingested_at: '2026-06-10'
+original_name: iter-0118-client_feedback.md
+sha256: 3659cbf4691005abc1c099bff5deb5356520b3028c8f9715095e7b7e1cf0ab89
+processed: false
+retracted: false
+stress_type: client_feedback
+stress_gt:
+  title: 'Zpětná vazba: interní wiki'
+  date: '2026-03-26'
+  source_person: Klára Svobodová
+  sentiment: negative
+  points:
+  - Líbí se přehlednost nového návrhu
+  requests:
+  - Přidat export do PDF

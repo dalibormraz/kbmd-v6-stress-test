@@ -1,0 +1,24 @@
+ingested_at: '2026-06-10'
+original_name: iter-0095-spec.md
+sha256: 2042f46fd1fdefe6cbbeab5285aef9be478282bf6b112f861b364c8668acabf8
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: mobilní aplikace — doprava zboží'
+  date: '2026-05-24'
+  goal: Postavit doprava zboží pro mobilní aplikace tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  - WHEN vstup chybí, THEN formulář ukáže srozumitelnou chybu
+  constraints: []
+  out_of_scope:
+  - mobilní aplikace
+  owner: Petr Novák
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: wiki/inbox/2026-05-24-zadani-mobilni-aplikace-doprava-zbozi.md

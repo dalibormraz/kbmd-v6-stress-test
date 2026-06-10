@@ -1,0 +1,15 @@
+ingested_at: '2026-06-10'
+original_name: iter-0070-client_feedback.md
+sha256: f355d0c99cde7235338e648f0cafed6a682a5e7e9c631c81bb9d2e521648b973
+processed: false
+retracted: false
+stress_type: client_feedback
+stress_gt:
+  title: 'Zpětná vazba: e-shop s keramikou'
+  date: '2026-03-17'
+  source_person: Petr Novák
+  sentiment: negative
+  points:
+  - Líbí se přehlednost nového návrhu
+  requests:
+  - Přidat export do PDF

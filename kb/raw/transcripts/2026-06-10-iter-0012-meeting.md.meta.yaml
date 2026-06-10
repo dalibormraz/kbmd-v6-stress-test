@@ -1,0 +1,30 @@
+ingested_at: '2026-06-10'
+original_name: iter-0012-meeting.md
+sha256: ed952e1151978e2dfc8ef671089ab2604d4a9a082d2f39fbfa98e198ea8efec0
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: mobilní aplikace — testování'
+  date: '2026-06-05'
+  participants:
+  - Jakub Polák
+  - Klára Svobodová
+  summary: Řešili jsme testování pro projekt mobilní aplikace; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro testování použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Jakub Polák
+  actions:
+  - what: Připravit podklady k testování
+    owner: Klára Svobodová
+    due: do konce týdne
+  open_questions:
+  - Kdo schválí rozpočet za testování?
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-06-05-schuzka-mobilni-aplikace-testovani.md

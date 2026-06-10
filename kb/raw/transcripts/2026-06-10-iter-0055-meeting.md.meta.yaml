@@ -1,0 +1,32 @@
+ingested_at: '2026-06-10'
+original_name: iter-0055-meeting.md
+sha256: 43e4de34833ee405c00f8ed59e604b73488709ad30181281138af3529c03e7f4
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: e-shop s keramikou — migrace dat'
+  date: '2026-05-14'
+  participants:
+  - Eva Horká
+  - Lucie Veselá
+  - Michal Beneš
+  - Tomáš Malý
+  summary: Řešili jsme migrace dat pro projekt e-shop s keramikou; shoda na dalším
+    postupu a rozdělení úkolů.
+  decisions:
+  - what: Pro migrace dat použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Eva Horká
+  actions:
+  - what: Připravit podklady k migrace dat
+    owner: Lucie Veselá
+    due: do konce týdne
+  open_questions: []
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-05-14-schuzka-e-shop-s-keramikou-migrace-dat.md

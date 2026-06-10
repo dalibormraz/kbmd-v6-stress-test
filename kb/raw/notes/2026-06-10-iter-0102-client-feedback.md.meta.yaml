@@ -1,0 +1,15 @@
+ingested_at: '2026-06-10'
+original_name: iter-0102-client_feedback.md
+sha256: 5e8a769aae4761df8352e8f356b9ecbd6398e950527d6e00b2a8c46016914eaf
+processed: false
+retracted: false
+stress_type: client_feedback
+stress_gt:
+  title: 'Zpětná vazba: fakturační modul'
+  date: '2026-02-08'
+  source_person: Ondřej Král
+  sentiment: positive
+  points:
+  - Líbí se přehlednost nového návrhu
+  - Vadí pomalé načítání na mobilu
+  requests: []

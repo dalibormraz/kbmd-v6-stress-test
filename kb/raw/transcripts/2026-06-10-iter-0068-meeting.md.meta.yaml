@@ -1,0 +1,34 @@
+ingested_at: '2026-06-10'
+original_name: iter-0068-meeting.md
+sha256: 221e3a52751263a4b6d3e88879d86b40ddd1d2f8fb8d9f6c04bc72db42eb25ac
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: rezervační systém — rozpočet'
+  date: '2026-01-06'
+  participants:
+  - Eva Horká
+  - Petr Novák
+  - Tomáš Malý
+  summary: Řešili jsme rozpočet pro projekt rezervační systém; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro rozpočet použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Eva Horká
+  actions:
+  - what: Připravit podklady k rozpočet
+    owner: Petr Novák
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Eva Horká
+    due: null
+  open_questions:
+  - Kdo schválí rozpočet za rozpočet?
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-01-06-schuzka-rezervacni-system-rozpocet.md

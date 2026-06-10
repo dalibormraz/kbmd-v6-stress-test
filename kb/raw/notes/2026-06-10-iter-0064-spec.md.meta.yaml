@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0064-spec.md
+sha256: 97c711fda2e5b5d3c97a632866f5ad60991a61df1fbdfd2d654396ecc7387080
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: fakturační modul — obsah webu'
+  date: '2026-02-13'
+  goal: Postavit obsah webu pro fakturační modul tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints: []
+  out_of_scope:
+  - mobilní aplikace
+  owner: Klára Svobodová
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-02-13-zadani-fakturacni-modul-obsah-webu.md

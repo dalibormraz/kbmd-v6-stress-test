@@ -1,0 +1,30 @@
+ingested_at: '2026-06-10'
+original_name: iter-0011-meeting.md
+sha256: 3a89cb2959df8286aad7c5ac75fcb1efad87b9d859d4bb18d3524d0e27fb8836
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: redesign webu — migrace dat'
+  date: '2026-06-22'
+  participants:
+  - Eva Horká
+  - Michal Beneš
+  summary: Řešili jsme migrace dat pro projekt redesign webu; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro migrace dat použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Eva Horká
+  actions:
+  - what: Připravit podklady k migrace dat
+    owner: Michal Beneš
+    due: do konce týdne
+  open_questions:
+  - Kdo schválí rozpočet za migrace dat?
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-06-22-schuzka-redesign-webu-migrace-dat.md

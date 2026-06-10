@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0053-decision.md
+sha256: fdacb09475f1b6b33d8536e41ed17f6b4b2aeff57856ebe46d2b1ba655d2b0c3
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: migrace dat pro mobilní aplikace'
+  date: '2026-05-15'
+  what: Pro migrace dat v projektu mobilní aplikace zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  - odložit o kvartál
+  consequences:
+  - nutná úprava harmonogramu
+  owner: Tomáš Malý
+  priority: should
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-05-15-rozhodnuti-migrace-dat-pro-mobilni-aplikace.md

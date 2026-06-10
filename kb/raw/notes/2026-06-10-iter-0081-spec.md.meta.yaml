@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0081-spec.md
+sha256: 15cd0c160ab4f331b44103cf5c04be464a00572bf00df94592a6b44297332f3a
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: redesign webu — harmonogram'
+  date: '2026-05-03'
+  goal: Postavit harmonogram pro redesign webu tak, aby to zvládl běžný uživatel bez
+    školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope: []
+  owner: Tomáš Malý
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-05-03-zadani-redesign-webu-harmonogram.md

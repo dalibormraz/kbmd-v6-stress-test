@@ -1,0 +1,16 @@
+ingested_at: '2026-06-10'
+original_name: iter-0030-risk_review.md
+sha256: e503eabdd848b9e106c4d10c4e5416da64efa416bee3e35142bb8c0a525b0657
+processed: false
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: interní wiki'
+  date: '2026-04-15'
+  project: interní wiki
+  risks:
+  - what: Zpoždění dodávky grafika
+    severity: high
+    mitigation: týdenní kontrola stavu
+    owner: Lucie Veselá
+  decisions_needed: []

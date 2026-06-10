@@ -1,0 +1,15 @@
+ingested_at: '2026-06-10'
+original_name: iter-0111-client_feedback.md
+sha256: 534df9dc471f759703a7b2dbab925a9b2f932a659387f7f9ed38cfc89222bf96
+processed: false
+retracted: false
+stress_type: client_feedback
+stress_gt:
+  title: 'Zpětná vazba: mobilní aplikace'
+  date: '2026-05-04'
+  source_person: Tomáš Malý
+  sentiment: neutral
+  points:
+  - Líbí se přehlednost nového návrhu
+  requests:
+  - Přidat export do PDF

@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0035-spec.md
+sha256: 48eb1b190fddb0d4457c54be9c599cc43c9bc679547bec0eb20e51df1af0da5f
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: mobilní aplikace — testování'
+  date: '2026-02-21'
+  goal: Postavit testování pro mobilní aplikace tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope: []
+  owner: Tomáš Malý
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-02-21-zadani-mobilni-aplikace-testovani.md

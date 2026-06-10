@@ -1,0 +1,17 @@
+ingested_at: '2026-06-10'
+original_name: iter-0063-risk_review.md
+sha256: 97d1bf70aeba90dfd9de59b9b6f754ebe85339d15196f17cd87b5036dd7ddd58
+processed: false
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: interní wiki'
+  date: '2026-01-09'
+  project: interní wiki
+  risks:
+  - what: Zpoždění dodávky rozpočet
+    severity: high
+    mitigation: týdenní kontrola stavu
+    owner: Petr Novák
+  decisions_needed:
+  - Schválit rezervu v rozpočtu

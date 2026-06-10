@@ -1,0 +1,17 @@
+ingested_at: '2026-06-10'
+original_name: iter-0089-risk_review.md
+sha256: 88c4a924fe76d1fd22dc75069482929e4edec93e7755d5b6206064ed61a0e7a1
+processed: false
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: fakturační modul'
+  date: '2026-02-12'
+  project: fakturační modul
+  risks:
+  - what: Zpoždění dodávky rozpočet
+    severity: low
+    mitigation: týdenní kontrola stavu
+    owner: Eva Horká
+  decisions_needed:
+  - Schválit rezervu v rozpočtu

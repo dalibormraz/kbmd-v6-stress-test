@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0016-spec.md
+sha256: 961720c9ac3e8f5a0c9006caf200bfbf72f0a630160fa6dee878bb712aa0a88f
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: e-shop s keramikou — platební brána'
+  date: '2026-04-11'
+  goal: Postavit platební brána pro e-shop s keramikou tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope: []
+  owner: Tomáš Malý
+  priority: should
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-04-11-zadani-e-shop-s-keramikou-platebni-brana.md

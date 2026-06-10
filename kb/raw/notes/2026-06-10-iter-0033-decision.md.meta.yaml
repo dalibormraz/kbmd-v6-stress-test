@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0033-decision.md
+sha256: f7e55c86c22d2628ae9b327cafd173cbcff47a68ad5651d8a79b75c0e1e7f648
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: harmonogram pro fakturační modul'
+  date: '2026-03-21'
+  what: Pro harmonogram v projektu fakturační modul zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  - odložit o kvartál
+  consequences:
+  - nutná úprava harmonogramu
+  owner: Tomáš Malý
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-03-21-rozhodnuti-harmonogram-pro-fakturacni-modul.md

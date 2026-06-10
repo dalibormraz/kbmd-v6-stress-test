@@ -1,0 +1,34 @@
+ingested_at: '2026-06-10'
+original_name: iter-0106-meeting.md
+sha256: c8ab496e5033417d3d7c7f4c3602ed789a3f86d6c2acf69353a70c5b63ddbed9
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: interní wiki — harmonogram'
+  date: '2026-05-01'
+  participants:
+  - Jakub Polák
+  - Michal Beneš
+  - Ondřej Král
+  summary: Řešili jsme harmonogram pro projekt interní wiki; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro harmonogram použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Jakub Polák
+  actions:
+  - what: Připravit podklady k harmonogram
+    owner: Michal Beneš
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Jakub Polák
+    due: null
+  open_questions:
+  - Kdo schválí rozpočet za harmonogram?
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-05-01-schuzka-interni-wiki-harmonogram.md

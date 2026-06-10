@@ -1,0 +1,35 @@
+ingested_at: '2026-06-10'
+original_name: iter-0013-meeting.md
+sha256: f8be0b0584c9b0bda51d6e3737570c2b46417fdbfafc2238ae538641a277b4d8
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: mobilní aplikace — testování'
+  date: '2026-04-18'
+  participants:
+  - Lucie Veselá
+  - Tomáš Malý
+  - Petr Novák
+  summary: Řešili jsme testování pro projekt mobilní aplikace; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro testování použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Lucie Veselá
+  actions:
+  - what: Připravit podklady k testování
+    owner: Tomáš Malý
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Lucie Veselá
+    due: null
+  open_questions:
+  - Kdo schválí rozpočet za testování?
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-04-18-schuzka-mobilni-aplikace-testovani.md

@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0107-decision.md
+sha256: 6cd626179cbc1debf3b217dfb708d2b9c4b3e678c4bef099868889e4b009cb3a
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: doprava zboží pro e-shop s keramikou'
+  date: '2026-06-12'
+  what: Pro doprava zboží v projektu e-shop s keramikou zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  consequences:
+  - nutná úprava harmonogramu
+  owner: Jakub Polák
+  priority: could
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-06-12-rozhodnuti-doprava-zbozi-pro-e-shop-s-keramikou.md

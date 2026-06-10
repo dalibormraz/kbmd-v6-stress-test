@@ -1,0 +1,17 @@
+ingested_at: '2026-06-10'
+original_name: iter-0088-risk_review.md
+sha256: 990809ba06971c7884046125117f2af5ec3943f15f0b811015105d6a09279bce
+processed: false
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: interní wiki'
+  date: '2026-04-19'
+  project: interní wiki
+  risks:
+  - what: Zpoždění dodávky migrace dat
+    severity: high
+    mitigation: týdenní kontrola stavu
+    owner: Marie Tichá
+  decisions_needed:
+  - Schválit rezervu v rozpočtu

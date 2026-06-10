@@ -1,0 +1,35 @@
+ingested_at: '2026-06-10'
+original_name: iter-0022-meeting.md
+sha256: bcdb2abbab4c952cb22f3360f5b42d3b1ca487a2d5bca1a06771f688572db26b
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: e-shop s keramikou — doprava zboží'
+  date: '2026-01-17'
+  participants:
+  - Jana Dvořáková
+  - Tomáš Malý
+  - Jakub Polák
+  - Michal Beneš
+  summary: Řešili jsme doprava zboží pro projekt e-shop s keramikou; shoda na dalším
+    postupu a rozdělení úkolů.
+  decisions:
+  - what: Pro doprava zboží použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Jana Dvořáková
+  actions:
+  - what: Připravit podklady k doprava zboží
+    owner: Tomáš Malý
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Jana Dvořáková
+    due: null
+  open_questions: []
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-01-17-schuzka-e-shop-s-keramikou-doprava-zbozi.md

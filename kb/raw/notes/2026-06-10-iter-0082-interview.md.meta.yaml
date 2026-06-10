@@ -1,0 +1,16 @@
+ingested_at: '2026-06-10'
+original_name: iter-0082-interview.md
+sha256: 919219dd44676c6cfa44319804646df5444f6139622c7c56435b512204254d6a
+processed: false
+retracted: false
+stress_type: interview
+stress_gt:
+  title: 'Rozhovor: Lucie Veselá (kampaň podzim)'
+  date: '2026-01-04'
+  interviewee: Lucie Veselá
+  role: vedoucí provozu
+  insights:
+  - Nejvíc času ztrácí ruční přepisování objednávek
+  - Tým si vede vlastní tabulky mimo systém
+  follow_ups:
+  - Domluvit stínování provozu na půl dne

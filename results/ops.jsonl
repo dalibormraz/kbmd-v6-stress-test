@@ -1,0 +1,9 @@
+{"op": "index+lint", "iter": 20, "phase": "A", "index_ms": 21, "lint_ms": 100, "lint_errors": 0, "errors_sample": [], "kb_docs": 14}
+{"op": "index+lint", "iter": 40, "phase": "A", "index_ms": 39, "lint_ms": 171, "lint_errors": 0, "errors_sample": [], "kb_docs": 27}
+{"op": "retract", "iter": 50, "phase": "A", "raw": "raw/notes/2026-06-10-iter-0028-spec.md", "quarantined_n": 1, "cascade_ok": true, "kb009_expected": true, "kb009_fired_before_index": true, "errors_after_index": 0, "errors_sample": []}
+{"op": "index+lint", "iter": 60, "phase": "A", "index_ms": 67, "lint_ms": 265, "lint_errors": 0, "errors_sample": [], "kb_docs": 42}
+{"op": "index+lint", "iter": 80, "phase": "A", "index_ms": 81, "lint_ms": 320, "lint_errors": 0, "errors_sample": [], "kb_docs": 55}
+{"op": "index+lint", "iter": 100, "phase": "A", "index_ms": 96, "lint_ms": 392, "lint_errors": 0, "errors_sample": [], "kb_docs": 67}
+{"op": "retract", "iter": 100, "phase": "A", "raw": "raw/notes/2026-06-10-iter-0087-spec.md", "quarantined_n": 1, "cascade_ok": true, "kb009_expected": true, "kb009_fired_before_index": true, "errors_after_index": 0, "errors_sample": []}
+{"op": "determinism", "iter": 100, "phase": "A", "identical": true}
+{"op": "index+lint", "iter": 120, "phase": "A", "index_ms": 115, "lint_ms": 466, "lint_errors": 0, "errors_sample": [], "kb_docs": 81}

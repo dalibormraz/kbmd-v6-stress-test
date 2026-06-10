@@ -1,0 +1,17 @@
+ingested_at: '2026-06-10'
+original_name: iter-0045-risk_review.md
+sha256: c3c88337a471a641e5e6a9d67562cbec60f3de1f02d106609742f375d20eae7d
+processed: false
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: rezervační systém'
+  date: '2026-02-13'
+  project: rezervační systém
+  risks:
+  - what: Zpoždění dodávky migrace dat
+    severity: low
+    mitigation: týdenní kontrola stavu
+    owner: Petr Novák
+  decisions_needed:
+  - Schválit rezervu v rozpočtu

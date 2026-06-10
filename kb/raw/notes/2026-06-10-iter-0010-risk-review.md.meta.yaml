@@ -1,0 +1,17 @@
+ingested_at: '2026-06-10'
+original_name: iter-0010-risk_review.md
+sha256: 3bb93607bfd07a67d9a1aad7d5d472c83cb61c3288a58e8aa06a27deb91eaa4c
+processed: false
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: mobilní aplikace'
+  date: '2026-03-15'
+  project: mobilní aplikace
+  risks:
+  - what: Zpoždění dodávky migrace dat
+    severity: high
+    mitigation: týdenní kontrola stavu
+    owner: Jana Dvořáková
+  decisions_needed:
+  - Schválit rezervu v rozpočtu

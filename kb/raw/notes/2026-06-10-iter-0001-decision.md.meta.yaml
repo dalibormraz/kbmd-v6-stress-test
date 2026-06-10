@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0001-decision.md
+sha256: beb1f23a3fb0f876cbaaf7481080a91bfe1c65f5c167f2837849e0c136f82411
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: smlouva pro mobilní aplikace'
+  date: '2026-05-21'
+  what: Pro smlouva v projektu mobilní aplikace zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  consequences: []
+  owner: Marie Tichá
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-05-21-rozhodnuti-smlouva-pro-mobilni-aplikace.md

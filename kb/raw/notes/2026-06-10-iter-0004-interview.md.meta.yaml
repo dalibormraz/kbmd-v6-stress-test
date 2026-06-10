@@ -1,0 +1,15 @@
+ingested_at: '2026-06-10'
+original_name: iter-0004-interview.md
+sha256: df9d1966ceb1d53c71a851d2d9df15f45a08c62e192b6467dbd859214fcc508e
+processed: false
+retracted: false
+stress_type: interview
+stress_gt:
+  title: 'Rozhovor: Jana Dvořáková (kampaň podzim)'
+  date: '2026-01-09'
+  interviewee: Jana Dvořáková
+  role: vedoucí provozu
+  insights:
+  - Nejvíc času ztrácí ruční přepisování objednávek
+  - Tým si vede vlastní tabulky mimo systém
+  follow_ups: []

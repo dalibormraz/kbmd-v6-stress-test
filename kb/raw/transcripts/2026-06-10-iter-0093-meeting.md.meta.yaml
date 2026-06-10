@@ -1,0 +1,33 @@
+ingested_at: '2026-06-10'
+original_name: iter-0093-meeting.md
+sha256: 75f16140bf082e4f09b41049b7fd032b8e1816d8f6ef3b71d3052cdb6f38caf3
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: interní wiki — rozpočet'
+  date: '2026-03-06'
+  participants:
+  - Michal Beneš
+  - Tomáš Malý
+  - Eva Horká
+  - Klára Svobodová
+  summary: Řešili jsme rozpočet pro projekt interní wiki; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro rozpočet použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Michal Beneš
+  actions:
+  - what: Připravit podklady k rozpočet
+    owner: Tomáš Malý
+    due: do konce týdne
+  open_questions:
+  - Kdo schválí rozpočet za rozpočet?
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-03-06-schuzka-interni-wiki-rozpocet.md

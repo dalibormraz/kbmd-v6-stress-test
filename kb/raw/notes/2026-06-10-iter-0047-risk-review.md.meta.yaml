@@ -1,0 +1,16 @@
+ingested_at: '2026-06-10'
+original_name: iter-0047-risk_review.md
+sha256: dbc5123d9e97f6e3c0834db7b221ab83a54c61c100de6bfef6d3850134218ba6
+processed: false
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: interní wiki'
+  date: '2026-02-22'
+  project: interní wiki
+  risks:
+  - what: Zpoždění dodávky harmonogram
+    severity: low
+    mitigation: týdenní kontrola stavu
+    owner: Jakub Polák
+  decisions_needed: []

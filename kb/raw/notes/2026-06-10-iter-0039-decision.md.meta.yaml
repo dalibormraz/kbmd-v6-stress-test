@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0039-decision.md
+sha256: eeecc6b95fff384b6cc927283117a397771c50057d810c1b8ec9ebebd5b6faaa
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: rozpočet pro redesign webu'
+  date: '2026-04-14'
+  what: Pro rozpočet v projektu redesign webu zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  - odložit o kvartál
+  consequences: []
+  owner: Klára Svobodová
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-04-14-rozhodnuti-rozpocet-pro-redesign-webu.md

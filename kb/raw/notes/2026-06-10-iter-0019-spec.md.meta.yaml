@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0019-spec.md
+sha256: 4dd120d7e35bec3817039ec888a61e75cf2836fb1a84dfa526b4ff4230d428fc
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: kampaň podzim — testování'
+  date: '2026-01-23'
+  goal: Postavit testování pro kampaň podzim tak, aby to zvládl běžný uživatel bez
+    školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope: []
+  owner: Marie Tichá
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-01-23-zadani-kampan-podzim-testovani.md

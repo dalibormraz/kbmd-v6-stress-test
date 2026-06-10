@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0032-spec.md
+sha256: bef7dc7e6e25384b36e1bf358fd41f6feef76e43e300be04109c85e191bb3573
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: rezervační systém — platební brána'
+  date: '2026-04-22'
+  goal: Postavit platební brána pro rezervační systém tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  - WHEN vstup chybí, THEN formulář ukáže srozumitelnou chybu
+  constraints: []
+  out_of_scope: []
+  owner: Eva Horká
+  priority: should
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-04-22-zadani-rezervacni-system-platebni-brana.md

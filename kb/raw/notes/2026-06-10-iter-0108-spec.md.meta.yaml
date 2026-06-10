@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0108-spec.md
+sha256: 183c949177b267e7a26575963988fc1b8dd8dd9d696ed485ae3eaf74a67d9575
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: redesign webu — platební brána'
+  date: '2026-06-07'
+  goal: Postavit platební brána pro redesign webu tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope: []
+  owner: Lucie Veselá
+  priority: should
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-06-07-zadani-redesign-webu-platebni-brana.md
