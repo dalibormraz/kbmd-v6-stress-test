@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0377-spec.md
+sha256: 1c084a524a62cfcfc6ef47b8f60652e482372fa9b555b87600027c5b366dce31
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: interní wiki — smlouva'
+  date: '2026-02-10'
+  goal: Postavit smlouva pro interní wiki tak, aby to zvládl běžný uživatel bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints: []
+  out_of_scope: []
+  owner: Petr Novák
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-02-10-zadani-interni-wiki-smlouva.md

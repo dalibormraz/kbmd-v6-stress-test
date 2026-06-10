@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0378-spec.md
+sha256: 0996e7bb2128b7681f88aac067662fa05c17a3de5a42d95e03c5c3963482de86
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: interní wiki — harmonogram'
+  date: '2026-03-19'
+  goal: Postavit harmonogram pro interní wiki tak, aby to zvládl běžný uživatel bez
+    školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope: []
+  owner: Eva Horká
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-03-19-zadani-interni-wiki-harmonogram.md

@@ -1,0 +1,17 @@
+ingested_at: '2026-06-10'
+original_name: iter-0356-risk_review.md
+sha256: a8c15bfef323ad4d6f72f455450fdff8073164c1c08080d2de15abda8cf199e8
+processed: false
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: e-shop s keramikou'
+  date: '2026-02-18'
+  project: e-shop s keramikou
+  risks:
+  - what: Zpoždění dodávky grafika
+    severity: low
+    mitigation: týdenní kontrola stavu
+    owner: Petr Novák
+  decisions_needed:
+  - Schválit rezervu v rozpočtu

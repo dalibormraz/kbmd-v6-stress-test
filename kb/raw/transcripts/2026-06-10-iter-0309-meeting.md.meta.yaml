@@ -1,0 +1,30 @@
+ingested_at: '2026-06-10'
+original_name: iter-0309-meeting.md
+sha256: a98e34b76bc8ec94496341d64731b1b64040434519461b7584d9febcadf98ab0
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: mobilní aplikace — doprava zboží'
+  date: '2026-06-19'
+  participants:
+  - Jakub Polák
+  - Lucie Veselá
+  - Ondřej Král
+  summary: Řešili jsme doprava zboží pro projekt mobilní aplikace; shoda na dalším
+    postupu a rozdělení úkolů.
+  decisions:
+  - what: Pro doprava zboží použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Jakub Polák
+  actions:
+  - what: Připravit podklady k doprava zboží
+    owner: Lucie Veselá
+    due: do konce týdne
+  open_questions: []
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: wiki/inbox/2026-06-19-schuzka-mobilni-aplikace-doprava-zbozi.md

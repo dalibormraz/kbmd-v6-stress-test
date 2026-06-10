@@ -1,0 +1,32 @@
+ingested_at: '2026-06-10'
+original_name: iter-0349-meeting.md
+sha256: d310c8609aa55ee081f6acc528787bed6759c897ec63cd3ee0d5c9bddfa024fa
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: mobilní aplikace — smlouva'
+  date: '2026-05-18'
+  participants:
+  - Lucie Veselá
+  - Jana Dvořáková
+  summary: Řešili jsme smlouva pro projekt mobilní aplikace; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro smlouva použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Lucie Veselá
+  actions:
+  - what: Připravit podklady k smlouva
+    owner: Jana Dvořáková
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Lucie Veselá
+    due: null
+  open_questions: []
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-05-18-schuzka-mobilni-aplikace-smlouva.md

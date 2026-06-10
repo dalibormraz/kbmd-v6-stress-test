@@ -1,0 +1,34 @@
+ingested_at: '2026-06-10'
+original_name: iter-0380-meeting.md
+sha256: 0ba687f983376504e36e1f4e722476f18f03597a4416ab1454401bad32f1db21
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: e-shop s keramikou — platební brána'
+  date: '2026-03-08'
+  participants:
+  - Eva Horká
+  - Jana Dvořáková
+  - Klára Svobodová
+  - Tomáš Malý
+  summary: Řešili jsme platební brána pro projekt e-shop s keramikou; shoda na dalším
+    postupu a rozdělení úkolů.
+  decisions:
+  - what: Pro platební brána použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Eva Horká
+  actions:
+  - what: Připravit podklady k platební brána
+    owner: Jana Dvořáková
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Eva Horká
+    due: null
+  open_questions: []
+  risks: []
+extracted_at: '2026-06-10'
+summarized: true
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-03-08-schuzka-e-shop-s-keramikou-platebni-brana.md

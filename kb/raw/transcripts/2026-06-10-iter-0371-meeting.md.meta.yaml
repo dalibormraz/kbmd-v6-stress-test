@@ -1,0 +1,31 @@
+ingested_at: '2026-06-10'
+original_name: iter-0371-meeting.md
+sha256: 2ec85a7055b9f65481b3e187afe06ce7f4aec937651f3e89b5039bcf8eaf1eb0
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: fakturační modul — platební brána'
+  date: '2026-05-28'
+  participants:
+  - Klára Svobodová
+  - Tomáš Malý
+  - Lucie Veselá
+  summary: Řešili jsme platební brána pro projekt fakturační modul; shoda na dalším
+    postupu a rozdělení úkolů.
+  decisions:
+  - what: Pro platební brána použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Klára Svobodová
+  actions:
+  - what: Připravit podklady k platební brána
+    owner: Tomáš Malý
+    due: do konce týdne
+  open_questions: []
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-05-28-schuzka-fakturacni-modul-platebni-brana.md

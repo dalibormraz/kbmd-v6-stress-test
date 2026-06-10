@@ -1,0 +1,16 @@
+## Souhrn — fáze C (n=104 iterací)
+- outcome: {'needs_review': 6, 'ok': 92, 'failed': 6}
+- **C1 pády: 0**
+- **C2 shoda s očekáváním: 104/104 (100.0 %)**
+- **C3 gate-escapes: 0**
+- gate-overblock (čistý vstup v inboxu): 0
+- nekompletní frontmatter u ok výstupů: 0
+- halucinovaná pole odstraněna: 6/6
+- XL summarize pre-pass označen: 7/7
+- **C8** needs_review s důvodem: 6/6; routing do inboxu ok: 6/6
+- **C6** extract ms: p50=1443 p95=1645 max=1668 (n=104)
+- škálování extract p50 dle velikosti KB: 250+ dokumentů→1286 ms, 300+ dokumentů→1458 ms, 350+ dokumentů→1628 ms
+- **C6** plný lint ms: p50=1508 max=1676; index ms: p50=432 max=479 (n=5 kontrol)
+- lint po index regeneraci: 1/5 kontrol s 0 errors — VADNÉ: [320, 340, 360, 380]
+- **C4** retrakce: 2 ops; kaskáda ok 2/2; KB009 dle očekávání 2/2; čisto po indexu 1/2
+- **C5** determinismus indexu: 1/1 identických

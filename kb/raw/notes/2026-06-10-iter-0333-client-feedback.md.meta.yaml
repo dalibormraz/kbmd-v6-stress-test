@@ -1,0 +1,19 @@
+ingested_at: '2026-06-10'
+original_name: iter-0333-client_feedback.md
+sha256: 361282b0ba5d5e41f1c748cac75ac20413d073c93e510b62cee06c7456651cc6
+processed: true
+retracted: false
+stress_type: client_feedback
+stress_gt:
+  title: 'Zpětná vazba: mobilní aplikace'
+  date: '2026-05-15'
+  source_person: Petr Novák
+  sentiment: negative
+  points:
+  - Líbí se přehlednost nového návrhu
+  requests: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: client_feedback
+  output: 04_PEOPLE/2026-05-15-zpetna-vazba-mobilni-aplikace.md

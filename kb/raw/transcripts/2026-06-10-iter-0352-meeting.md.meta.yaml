@@ -1,0 +1,28 @@
+ingested_at: '2026-06-10'
+original_name: iter-0352-meeting.md
+sha256: f555b075a002e63b9bf9669f242a181021b26f54f184926329b36720d9dfa6a2
+processed: false
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: rezervační systém — migrace dat'
+  date: '2026-06-26'
+  participants:
+  - Tomáš Malý
+  - Michal Beneš
+  - Jana Dvořáková
+  summary: Řešili jsme migrace dat pro projekt rezervační systém; shoda na dalším
+    postupu a rozdělení úkolů.
+  decisions:
+  - what: Pro migrace dat použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Tomáš Malý
+  actions:
+  - what: Připravit podklady k migrace dat
+    owner: Michal Beneš
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Tomáš Malý
+    due: null
+  open_questions: []
+  risks: []

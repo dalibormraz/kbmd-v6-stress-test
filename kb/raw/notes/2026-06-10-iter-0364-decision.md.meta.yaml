@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0364-decision.md
+sha256: c63a0d976fc09eeaa5aa56ddb6ccf97591f551dcce8725e2d75a5c001a5e9404
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: smlouva pro redesign webu'
+  date: '2026-01-24'
+  what: Pro smlouva v projektu redesign webu zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  - odložit o kvartál
+  consequences:
+  - nutná úprava harmonogramu
+  owner: Jakub Polák
+  priority: could
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-01-24-rozhodnuti-smlouva-pro-redesign-webu.md

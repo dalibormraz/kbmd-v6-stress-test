@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0376-decision.md
+sha256: 7e6d7cb68c04cb94d7dfe8188b7534bf1bf4e5bcf3b1aaa5c91b586974e09bc5
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: migrace dat pro e-shop s keramikou'
+  date: '2026-06-12'
+  what: Pro migrace dat v projektu e-shop s keramikou zvolena varianta B.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  consequences: []
+  owner: Petr Novák
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-06-12-rozhodnuti-migrace-dat-pro-e-shop-s-keramikou.md

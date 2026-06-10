@@ -1,0 +1,33 @@
+ingested_at: '2026-06-10'
+original_name: iter-0318-meeting.md
+sha256: 82acc977e818db7ed3fa6190dd3d022e8c4f8312f58947864696427f3de35bed
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: mobilní aplikace — testování'
+  date: '2026-06-06'
+  participants:
+  - Jana Dvořáková
+  - Michal Beneš
+  summary: Řešili jsme testování pro projekt mobilní aplikace; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro testování použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Jana Dvořáková
+  actions:
+  - what: Připravit podklady k testování
+    owner: Michal Beneš
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Jana Dvořáková
+    due: null
+  open_questions: []
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-06-06-schuzka-mobilni-aplikace-testovani.md

@@ -1,0 +1,20 @@
+ingested_at: '2026-06-10'
+original_name: iter-0325-interview.md
+sha256: d725ffe5c63004edf0bd521459bb22b81b82b7a2277e1a839c7bd581b8377e0a
+processed: true
+retracted: false
+stress_type: interview
+stress_gt:
+  title: 'Rozhovor: Jana Dvořáková (rezervační systém)'
+  date: '2026-03-16'
+  interviewee: Jana Dvořáková
+  role: vedoucí provozu
+  insights:
+  - Nejvíc času ztrácí ruční přepisování objednávek
+  - Tým si vede vlastní tabulky mimo systém
+  follow_ups: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: interview
+  output: 04_PEOPLE/2026-03-16-rozhovor-jana-dvorakova-rezervacni-system.md

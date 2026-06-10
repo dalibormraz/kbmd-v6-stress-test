@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0348-meeting.md
+sha256: c028f80f34ac62e49ca30eed722e8a724ebba30915726c6d3b651cac57bacbb7
+processed: false
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: interní wiki — smlouva'
+  date: '2026-05-07'
+  participants:
+  - Ondřej Král
+  - Michal Beneš
+  - Jakub Polák
+  summary: Řešili jsme smlouva pro projekt interní wiki; shoda na dalším postupu a
+    rozdělení úkolů.
+  decisions: []
+  actions:
+  - what: Připravit podklady k smlouva
+    owner: Michal Beneš
+    due: do konce týdne
+  open_questions:
+  - Kdo schválí rozpočet za smlouva?
+  risks: []

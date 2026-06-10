@@ -1,0 +1,31 @@
+ingested_at: '2026-06-10'
+original_name: iter-0340-meeting.md
+sha256: d2c880532a6f464a433b1316e46b5e221b3b5188b26181a5fae96d5dc780e2a9
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: e-shop s keramikou — testování'
+  date: '2026-02-17'
+  participants:
+  - Eva Horká
+  - Michal Beneš
+  - Tomáš Malý
+  summary: Řešili jsme testování pro projekt e-shop s keramikou; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro testování použijeme variantu C
+    why: nejlepší poměr cena/termín
+    owner: Eva Horká
+  actions:
+  - what: Připravit podklady k testování
+    owner: Michal Beneš
+    due: do konce týdne
+  open_questions:
+  - Kdo schválí rozpočet za testování?
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-02-17-schuzka-e-shop-s-keramikou-testovani.md

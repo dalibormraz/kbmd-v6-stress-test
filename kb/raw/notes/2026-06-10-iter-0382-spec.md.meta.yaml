@@ -1,0 +1,24 @@
+ingested_at: '2026-06-10'
+original_name: iter-0382-spec.md
+sha256: 1f93eea942db8e4557a53b0dd562e7e93d274313dd6424c7c7458eb360363b14
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: datový sklad — rozpočet'
+  date: '2026-04-04'
+  goal: Postavit rozpočet pro datový sklad tak, aby to zvládl běžný uživatel bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  - WHEN vstup chybí, THEN formulář ukáže srozumitelnou chybu
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope:
+  - mobilní aplikace
+  owner: Lucie Veselá
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-04-04-zadani-datovy-sklad-rozpocet.md

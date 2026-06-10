@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0374-decision.md
+sha256: 0bb2f4a274d80ce5bac6fe7889df94837b49b1587846e90e2a6cff2bdd67202e
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: rozpočet pro rezervační systém'
+  date: '2026-02-27'
+  what: Pro rozpočet v projektu rezervační systém zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  consequences: []
+  owner: Ondřej Král
+  priority: null
+extracted_at: '2026-06-10'
+summarized: true
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-02-27-rozhodnuti-rozpocet-pro-rezervacni-system.md

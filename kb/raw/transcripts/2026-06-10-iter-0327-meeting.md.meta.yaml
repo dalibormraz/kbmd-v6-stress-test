@@ -1,0 +1,34 @@
+ingested_at: '2026-06-10'
+original_name: iter-0327-meeting.md
+sha256: 42b6cf14b8225d3f508e5f776e2c7c00fa58c02fcbf3db0cab68826a8d4239df
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: interní wiki — platební brána'
+  date: '2026-04-09'
+  participants:
+  - Jakub Polák
+  - Marie Tichá
+  - Lucie Veselá
+  - Klára Svobodová
+  summary: Řešili jsme platební brána pro projekt interní wiki; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro platební brána použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Jakub Polák
+  actions:
+  - what: Připravit podklady k platební brána
+    owner: Marie Tichá
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Jakub Polák
+    due: null
+  open_questions: []
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-04-09-schuzka-interni-wiki-platebni-brana.md

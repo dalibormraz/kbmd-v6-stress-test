@@ -1,0 +1,19 @@
+ingested_at: '2026-06-10'
+original_name: iter-0324-client_feedback.md
+sha256: d4e0df2f1ab8806385a2be497fb3aff5eeb5a2cb0c0802130f99cdd0a0fc3182
+processed: true
+retracted: false
+stress_type: client_feedback
+stress_gt:
+  title: 'Zpětná vazba: interní wiki'
+  date: '2026-04-03'
+  source_person: Klára Svobodová
+  sentiment: negative
+  points:
+  - Líbí se přehlednost nového návrhu
+  requests: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: client_feedback
+  output: 04_PEOPLE/2026-04-03-zpetna-vazba-interni-wiki.md

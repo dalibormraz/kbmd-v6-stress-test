@@ -2,7 +2,7 @@
 title: 'Schůzka: mobilní aplikace — školení týmu'
 template: meeting
 template_version: 1.0.0
-status: published
+status: quarantined
 source: raw/transcripts/2026-06-10-iter-0121-meeting.md
 extracted_at: '2026-06-10T19:02:39Z'
 extracted_at_date: '2026-06-10'
@@ -29,6 +29,7 @@ actions:
   due: null
 open_questions: []
 risks: []
+needs_review_reason: 'zdroj stažen: stress: retraction op @iter 300'
 ---
 
 # Schůzka: mobilní aplikace — školení týmu

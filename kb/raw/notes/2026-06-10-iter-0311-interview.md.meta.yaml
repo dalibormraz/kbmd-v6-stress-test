@@ -1,0 +1,20 @@
+ingested_at: '2026-06-10'
+original_name: iter-0311-interview.md
+sha256: 0d6caa1f39ae14d5beec2fc1dbc423ef5d65d200b16c39bc25ca1d29731b536f
+processed: true
+retracted: false
+stress_type: interview
+stress_gt:
+  title: 'Rozhovor: Eva Horká (rezervační systém)'
+  date: '2026-05-27'
+  interviewee: Eva Horká
+  role: vedoucí provozu
+  insights:
+  - Nejvíc času ztrácí ruční přepisování objednávek
+  follow_ups:
+  - Domluvit stínování provozu na půl dne
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: interview
+  output: 04_PEOPLE/2026-05-27-rozhovor-eva-horka-rezervacni-system.md

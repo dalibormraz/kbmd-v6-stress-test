@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0315-risk_review.md
+sha256: 72e2a4697c3223e32be50555ed40819ce17e316eff496a903a5e2fbc4294d952
+processed: true
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: interní wiki'
+  date: '2026-03-09'
+  project: interní wiki
+  risks:
+  - what: Zpoždění dodávky obsah webu
+    severity: low
+    mitigation: týdenní kontrola stavu
+    owner: Eva Horká
+  decisions_needed: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: risk_review
+  output: 06_RISKS/2026-03-09-revize-rizik-interni-wiki.md

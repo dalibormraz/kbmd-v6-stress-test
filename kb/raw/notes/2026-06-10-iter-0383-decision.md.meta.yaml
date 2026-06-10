@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0383-decision.md
+sha256: 6a4977a4e9153d29b88199b2f1555cca719efd170f5a322325bb03606a23cb6b
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: grafika pro e-shop s keramikou'
+  date: '2026-05-17'
+  what: Pro grafika v projektu e-shop s keramikou zvolena varianta B.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  consequences: []
+  owner: Jakub Polák
+  priority: could
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-05-17-rozhodnuti-grafika-pro-e-shop-s-keramikou.md

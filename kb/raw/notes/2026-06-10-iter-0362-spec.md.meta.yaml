@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0362-spec.md
+sha256: ba845fcc2dab6f716ddf7d1f5950934c090a6002c7943bc7db41187c4dfa34a3
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: kampaň podzim — rozpočet'
+  date: '2026-06-20'
+  goal: Postavit rozpočet pro kampaň podzim tak, aby to zvládl běžný uživatel bez
+    školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  - WHEN vstup chybí, THEN formulář ukáže srozumitelnou chybu
+  constraints: []
+  out_of_scope: []
+  owner: Klára Svobodová
+  priority: should
+extracted_at: '2026-06-10'
+summarized: true
+extractions:
+- template: spec
+  output: 02_SPECS/2026-06-20-zadani-kampan-podzim-rozpocet.md

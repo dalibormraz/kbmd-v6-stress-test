@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0332-decision.md
+sha256: 4a19bbc35140ccef34759332ec38c350a523d498d31a813cf5bd5bb065d92c0c
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: doprava zboží pro redesign webu'
+  date: '2026-06-28'
+  what: Pro doprava zboží v projektu redesign webu zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  consequences: []
+  owner: Tomáš Malý
+  priority: must
+extracted_at: '2026-06-10'
+summarized: true
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-06-28-rozhodnuti-doprava-zbozi-pro-redesign-webu.md

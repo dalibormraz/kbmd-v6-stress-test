@@ -1,0 +1,31 @@
+ingested_at: '2026-06-10'
+original_name: iter-0294-meeting.md
+sha256: 608118fe19c20b2a1bf30a622ccb2bffbca8a3e8c25270ab280b7db95053a92b
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: interní wiki — smlouva'
+  date: '2026-04-12'
+  participants:
+  - Klára Svobodová
+  - Marie Tichá
+  - Michal Beneš
+  - Eva Horká
+  summary: Řešili jsme smlouva pro projekt interní wiki; shoda na dalším postupu a
+    rozdělení úkolů.
+  decisions:
+  - what: Pro smlouva použijeme variantu C
+    why: nejlepší poměr cena/termín
+    owner: Klára Svobodová
+  actions:
+  - what: Připravit podklady k smlouva
+    owner: Marie Tichá
+    due: do konce týdne
+  open_questions: []
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: wiki/inbox/2026-04-12-schuzka-interni-wiki-smlouva.md

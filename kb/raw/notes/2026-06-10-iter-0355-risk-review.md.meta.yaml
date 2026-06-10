@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0355-risk_review.md
+sha256: fdb5ab9deea069cc24ac4ccdee04919b75f7fbd3f798eea93329689a87971620
+processed: true
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: fakturační modul'
+  date: '2026-04-08'
+  project: fakturační modul
+  risks:
+  - what: Zpoždění dodávky platební brána
+    severity: low
+    mitigation: týdenní kontrola stavu
+    owner: Ondřej Král
+  decisions_needed:
+  - Schválit rezervu v rozpočtu
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: risk_review
+  output: 06_RISKS/2026-04-08-revize-rizik-fakturacni-modul.md

@@ -1,0 +1,35 @@
+ingested_at: '2026-06-10'
+original_name: iter-0373-meeting.md
+sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: interní wiki — platební brána'
+  date: '2026-04-27'
+  participants:
+  - Ondřej Král
+  - Eva Horká
+  - Marie Tichá
+  summary: Řešili jsme platební brána pro projekt interní wiki; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro platební brána použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Ondřej Král
+  actions:
+  - what: Připravit podklady k platební brána
+    owner: Eva Horká
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Ondřej Král
+    due: null
+  open_questions:
+  - Kdo schválí rozpočet za platební brána?
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-04-27-schuzka-interni-wiki-platebni-brana.md

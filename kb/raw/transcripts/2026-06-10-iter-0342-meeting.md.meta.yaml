@@ -1,0 +1,32 @@
+ingested_at: '2026-06-10'
+original_name: iter-0342-meeting.md
+sha256: c8e92e68d9857cb34430b75e074637d4a99a170ff21fac6ba612f01683f8e58b
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: kampaň podzim — harmonogram'
+  date: '2026-01-28'
+  participants:
+  - Ondřej Král
+  - Jana Dvořáková
+  summary: Řešili jsme harmonogram pro projekt kampaň podzim; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro harmonogram použijeme variantu C
+    why: nejlepší poměr cena/termín
+    owner: Ondřej Král
+  actions:
+  - what: Připravit podklady k harmonogram
+    owner: Jana Dvořáková
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Ondřej Král
+    due: null
+  open_questions: []
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-01-28-schuzka-kampan-podzim-harmonogram.md

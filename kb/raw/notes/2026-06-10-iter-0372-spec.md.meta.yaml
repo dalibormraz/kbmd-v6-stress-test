@@ -1,0 +1,24 @@
+ingested_at: '2026-06-10'
+original_name: iter-0372-spec.md
+sha256: f0a9ec2a5a9b4dd5ddba3a14411362ef6614062741390d67ccfb359b13d403cf
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: fakturační modul — grafika'
+  date: '2026-06-22'
+  goal: Postavit grafika pro fakturační modul tak, aby to zvládl běžný uživatel bez
+    školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope:
+  - mobilní aplikace
+  owner: Ondřej Král
+  priority: should
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-06-22-zadani-fakturacni-modul-grafika.md

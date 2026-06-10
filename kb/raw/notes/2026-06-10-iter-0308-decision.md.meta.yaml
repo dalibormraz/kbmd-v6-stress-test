@@ -1,0 +1,17 @@
+ingested_at: '2026-06-10'
+original_name: iter-0308-decision.md
+sha256: 72d3c0c8523735c090b7cf9cdb5a6128d115c9f3d2203d505cd4d108d32a324e
+processed: false
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: migrace dat pro e-shop s keramikou'
+  date: '2026-01-18'
+  what: Pro migrace dat v projektu e-shop s keramikou zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  consequences:
+  - nutná úprava harmonogramu
+  owner: Michal Beneš
+  priority: null

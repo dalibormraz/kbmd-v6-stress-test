@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0293-spec.md
+sha256: f095959b90184d1005c5e5bf08b46b811e2a5ddd794c9ad11843ee178c2a1a4f
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: e-shop s keramikou — testování'
+  date: '2026-05-21'
+  goal: Postavit testování pro e-shop s keramikou tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope: []
+  owner: Tomáš Malý
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-05-21-zadani-e-shop-s-keramikou-testovani.md

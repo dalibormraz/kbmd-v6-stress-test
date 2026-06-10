@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0285-spec.md
+sha256: 1320096e2e0fb2cfb50b28c53ffaab604f2dce1b0c5ba0b7c5b432ddef6b696b
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: redesign webu — smlouva'
+  date: '2026-04-28'
+  goal: Postavit smlouva pro redesign webu tak, aby to zvládl běžný uživatel bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  - WHEN vstup chybí, THEN formulář ukáže srozumitelnou chybu
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope: []
+  owner: Ondřej Král
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: wiki/inbox/2026-04-28-zadani-redesign-webu-smlouva.md

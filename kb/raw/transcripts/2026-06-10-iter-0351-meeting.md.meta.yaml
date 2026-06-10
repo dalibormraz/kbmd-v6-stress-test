@@ -1,0 +1,32 @@
+ingested_at: '2026-06-10'
+original_name: iter-0351-meeting.md
+sha256: d304ce722428873bc2a04a06f55121605629fc7b0edeb8ea144289cc183c6b94
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: mobilní aplikace — doprava zboží'
+  date: '2026-06-03'
+  participants:
+  - Ondřej Král
+  - Petr Novák
+  - Marie Tichá
+  - Tomáš Malý
+  summary: Řešili jsme doprava zboží pro projekt mobilní aplikace; shoda na dalším
+    postupu a rozdělení úkolů.
+  decisions:
+  - what: Pro doprava zboží použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Ondřej Král
+  actions:
+  - what: Připravit podklady k doprava zboží
+    owner: Petr Novák
+    due: do konce týdne
+  open_questions: []
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-06-03-schuzka-mobilni-aplikace-doprava-zbozi.md

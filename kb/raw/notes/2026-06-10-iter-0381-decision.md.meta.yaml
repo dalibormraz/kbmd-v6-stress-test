@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0381-decision.md
+sha256: 7a5deb3b2fd76daee29a8be698c6006e700fb1a774e5cd7c96df2a0809fc6ea7
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: platební brána pro fakturační modul'
+  date: '2026-06-27'
+  what: Pro platební brána v projektu fakturační modul zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  - odložit o kvartál
+  consequences:
+  - nutná úprava harmonogramu
+  owner: Tomáš Malý
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-06-27-rozhodnuti-platebni-brana-pro-fakturacni-modul.md

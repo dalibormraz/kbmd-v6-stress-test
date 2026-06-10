@@ -2,7 +2,7 @@ ingested_at: '2026-06-10'
 original_name: iter-0193-interview.md
 sha256: c9b4628ccaa0e08ef53174df05ca8b4b358bfe5016b6f5c36c4fdc6683c79559
 processed: true
-retracted: false
+retracted: true
 stress_type: interview
 stress_gt:
   title: 'Rozhovor: Ondřej Král (kampaň podzim)'
@@ -18,3 +18,4 @@ summarized: false
 extractions:
 - template: interview
   output: 04_PEOPLE/2026-03-24-rozhovor-ondrej-kral-kampan-podzim.md
+retracted_reason: 'stress: retraction op @iter 350'

@@ -1,0 +1,29 @@
+ingested_at: '2026-06-10'
+original_name: iter-0292-meeting.md
+sha256: f8ede6c41e2d77ec700c29681410de6ccda61d0ee69193a9566502f8f44a0954
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: fakturační modul — migrace dat'
+  date: '2026-04-08'
+  participants:
+  - Michal Beneš
+  - Jakub Polák
+  summary: Řešili jsme migrace dat pro projekt fakturační modul; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro migrace dat použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Michal Beneš
+  actions:
+  - what: Připravit podklady k migrace dat
+    owner: Jakub Polák
+    due: do konce týdne
+  open_questions: []
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-04-08-schuzka-fakturacni-modul-migrace-dat.md

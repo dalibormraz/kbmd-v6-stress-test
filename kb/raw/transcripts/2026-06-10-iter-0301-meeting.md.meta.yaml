@@ -1,0 +1,35 @@
+ingested_at: '2026-06-10'
+original_name: iter-0301-meeting.md
+sha256: 07aba8a40bded00dfd3367c3f25ecfaa32fc101b0e24903edc3f060f776b741e
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: kampaň podzim — obsah webu'
+  date: '2026-05-05'
+  participants:
+  - Lucie Veselá
+  - Tomáš Malý
+  - Jana Dvořáková
+  summary: Řešili jsme obsah webu pro projekt kampaň podzim; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro obsah webu použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Lucie Veselá
+  actions:
+  - what: Připravit podklady k obsah webu
+    owner: Tomáš Malý
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Lucie Veselá
+    due: null
+  open_questions:
+  - Kdo schválí rozpočet za obsah webu?
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-05-05-schuzka-kampan-podzim-obsah-webu.md

@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0302-decision.md
+sha256: 23f842fee92e6b3cf5e3a60db9c5251b6697d9bc38ca42e9e98ce28ecb5ca50a
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: smlouva pro interní wiki'
+  date: '2026-01-25'
+  what: Pro smlouva v projektu interní wiki zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  - odložit o kvartál
+  consequences: []
+  owner: Ondřej Král
+  priority: should
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-01-25-rozhodnuti-smlouva-pro-interni-wiki.md

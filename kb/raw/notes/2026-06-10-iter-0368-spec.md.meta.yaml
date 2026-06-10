@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0368-spec.md
+sha256: 8687e66cf1926e71239d61dfac017e29412a95f7d0e9b043ef5ed7244b0ebef4
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: redesign webu — smlouva'
+  date: '2026-06-04'
+  goal: Postavit smlouva pro redesign webu tak, aby to zvládl běžný uživatel bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints: []
+  out_of_scope: []
+  owner: Jana Dvořáková
+  priority: must
+extracted_at: '2026-06-10'
+summarized: true
+extractions:
+- template: spec
+  output: 02_SPECS/2026-06-04-zadani-redesign-webu-smlouva.md

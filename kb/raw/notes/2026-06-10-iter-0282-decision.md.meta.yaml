@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0282-decision.md
+sha256: 4da68083baf6104f65ba6859e25c3232896429463bf01d50e43413fdccbf65c4
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: školení týmu pro kampaň podzim'
+  date: '2026-02-03'
+  what: Pro školení týmu v projektu kampaň podzim zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  - odložit o kvartál
+  consequences: []
+  owner: Jana Dvořáková
+  priority: should
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-02-03-rozhodnuti-skoleni-tymu-pro-kampan-podzim.md

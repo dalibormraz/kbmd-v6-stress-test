@@ -1,0 +1,19 @@
+ingested_at: '2026-06-10'
+original_name: iter-0347-interview.md
+sha256: db2a3097bb7baff10e5c8fbe1f0a35b21ed738873ad19cf46b327d531c0849b2
+processed: true
+retracted: false
+stress_type: interview
+stress_gt:
+  title: 'Rozhovor: Marie Tichá (rezervační systém)'
+  date: '2026-05-07'
+  interviewee: Marie Tichá
+  role: vedoucí provozu
+  insights:
+  - Nejvíc času ztrácí ruční přepisování objednávek
+  follow_ups: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: interview
+  output: 04_PEOPLE/2026-05-07-rozhovor-marie-ticha-rezervacni-system.md

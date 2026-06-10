@@ -1,0 +1,24 @@
+ingested_at: '2026-06-10'
+original_name: iter-0288-spec.md
+sha256: 87f1bc7f75526a34a93959ff3805a66ffbd021e250cce87c926592ddbbfcc145
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: redesign webu — harmonogram'
+  date: '2026-05-09'
+  goal: Postavit harmonogram pro redesign webu tak, aby to zvládl běžný uživatel bez
+    školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  - WHEN vstup chybí, THEN formulář ukáže srozumitelnou chybu
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope: []
+  owner: Jana Dvořáková
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-05-09-zadani-redesign-webu-harmonogram.md

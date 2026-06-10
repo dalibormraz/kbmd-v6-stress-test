@@ -2,7 +2,7 @@
 title: 'Rozhovor: Ondřej Král (kampaň podzim)'
 template: interview
 template_version: 1.0.0
-status: draft
+status: quarantined
 source: raw/notes/2026-06-10-iter-0193-interview.md
 extracted_at: '2026-06-10T19:04:19Z'
 extracted_at_date: '2026-06-10'
@@ -17,6 +17,7 @@ insights:
 - Nejvíc času ztrácí ruční přepisování objednávek
 - Tým si vede vlastní tabulky mimo systém
 follow_ups: []
+needs_review_reason: 'zdroj stažen: stress: retraction op @iter 350'
 ---
 
 # Rozhovor: Ondřej Král (kampaň podzim)

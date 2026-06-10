@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0334-spec.md
+sha256: 83769e182ac17872d778d5ae6935cdb4a191908951a6e6364779e735fc913733
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: interní wiki — grafika'
+  date: '2026-02-17'
+  goal: Postavit grafika pro interní wiki tak, aby to zvládl běžný uživatel bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  - WHEN vstup chybí, THEN formulář ukáže srozumitelnou chybu
+  constraints: []
+  out_of_scope:
+  - mobilní aplikace
+  owner: Michal Beneš
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-02-17-zadani-interni-wiki-grafika.md

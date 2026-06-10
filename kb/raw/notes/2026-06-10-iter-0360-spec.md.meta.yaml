@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0360-spec.md
+sha256: af26841afb7db290f9fbfeb07f32411d0808eb2d8b92df28b5f54bdeff04e09e
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: kampaň podzim — obsah webu'
+  date: '2026-01-23'
+  goal: Postavit obsah webu pro kampaň podzim tak, aby to zvládl běžný uživatel bez
+    školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope: []
+  owner: Klára Svobodová
+  priority: should
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-01-23-zadani-kampan-podzim-obsah-webu.md

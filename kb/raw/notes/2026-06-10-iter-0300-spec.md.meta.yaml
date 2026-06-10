@@ -1,0 +1,18 @@
+ingested_at: '2026-06-10'
+original_name: iter-0300-spec.md
+sha256: 67b39cc2e453cb3def47950894d9bb2786a1d1b801092ec551b63cf6aa7e0b8b
+processed: false
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: kampaň podzim — harmonogram'
+  date: '2026-03-20'
+  goal: Postavit harmonogram pro kampaň podzim tak, aby to zvládl běžný uživatel bez
+    školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  - WHEN vstup chybí, THEN formulář ukáže srozumitelnou chybu
+  constraints: []
+  out_of_scope: []
+  owner: Eva Horká
+  priority: must

@@ -1,0 +1,33 @@
+ingested_at: '2026-06-10'
+original_name: iter-0331-meeting.md
+sha256: a695e6d64387a15bf8027e7aed3890d67d28f6f5abefba0e1e47d4eb16dc7ceb
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: kampaň podzim — doprava zboží'
+  date: '2026-04-24'
+  participants:
+  - Petr Novák
+  - Michal Beneš
+  summary: Řešili jsme doprava zboží pro projekt kampaň podzim; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro doprava zboží použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Petr Novák
+  actions:
+  - what: Připravit podklady k doprava zboží
+    owner: Michal Beneš
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Petr Novák
+    due: null
+  open_questions: []
+  risks:
+  - Možné zpoždění kvůli dovoleným
+extracted_at: '2026-06-10'
+summarized: true
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-04-24-schuzka-kampan-podzim-doprava-zbozi.md

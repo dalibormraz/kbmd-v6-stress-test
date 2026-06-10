@@ -1,0 +1,30 @@
+ingested_at: '2026-06-10'
+original_name: iter-0323-meeting.md
+sha256: ff8eef59605750c1c62b49a9620f00ad45e2fc3e0bb1b2ab2db3b04f6439d038
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: kampaň podzim — testování'
+  date: '2026-01-25'
+  participants:
+  - Michal Beneš
+  - Klára Svobodová
+  summary: Řešili jsme testování pro projekt kampaň podzim; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro testování použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Michal Beneš
+  actions:
+  - what: Připravit podklady k testování
+    owner: Klára Svobodová
+    due: do konce týdne
+  open_questions:
+  - Kdo schválí rozpočet za testování?
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-01-25-schuzka-kampan-podzim-testovani.md

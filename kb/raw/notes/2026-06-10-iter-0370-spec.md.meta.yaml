@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0370-spec.md
+sha256: 92328eacc11adc0a4b2515598b29489aa3e475ae1a4f553ef14bfe1771af3aa1
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: interní wiki — testování'
+  date: '2026-03-07'
+  goal: Postavit testování pro interní wiki tak, aby to zvládl běžný uživatel bez
+    školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  - WHEN vstup chybí, THEN formulář ukáže srozumitelnou chybu
+  constraints: []
+  out_of_scope: []
+  owner: Marie Tichá
+  priority: should
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-03-07-zadani-interni-wiki-testovani.md

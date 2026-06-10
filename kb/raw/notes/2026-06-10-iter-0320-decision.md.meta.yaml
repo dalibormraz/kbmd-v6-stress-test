@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0320-decision.md
+sha256: 3d92fb035dde28f07077712a85950ff57d746179f066cc7c8ab7344ab01fdc0a
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: doprava zboží pro datový sklad'
+  date: '2026-02-04'
+  what: Pro doprava zboží v projektu datový sklad zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  consequences: []
+  owner: Marie Tichá
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-02-04-rozhodnuti-doprava-zbozi-pro-datovy-sklad.md

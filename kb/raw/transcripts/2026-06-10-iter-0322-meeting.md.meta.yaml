@@ -1,0 +1,28 @@
+ingested_at: '2026-06-10'
+original_name: iter-0322-meeting.md
+sha256: 1e55ff9646e8b7ce7ab0206dc1e70a1e3aa52fb506eb2b9c6878442875d7be66
+processed: false
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: mobilní aplikace — obsah webu'
+  date: '2026-03-20'
+  participants:
+  - Klára Svobodová
+  - Eva Horká
+  - Jana Dvořáková
+  - Michal Beneš
+  summary: Řešili jsme obsah webu pro projekt mobilní aplikace; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions: []
+  actions:
+  - what: Připravit podklady k obsah webu
+    owner: Eva Horká
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Klára Svobodová
+    due: null
+  open_questions:
+  - Kdo schválí rozpočet za obsah webu?
+  risks:
+  - Možné zpoždění kvůli dovoleným

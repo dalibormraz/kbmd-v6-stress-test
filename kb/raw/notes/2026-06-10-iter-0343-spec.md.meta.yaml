@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0343-spec.md
+sha256: fcb5d8e45b82c6209606ae3d546772152a4d107df727b11f9e26161b656dedfe
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: kampaň podzim — platební brána'
+  date: '2026-06-17'
+  goal: Postavit platební brána pro kampaň podzim tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints: []
+  out_of_scope: []
+  owner: Petr Novák
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-06-17-zadani-kampan-podzim-platebni-brana.md

@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0304-risk_review.md
+sha256: df389917551bea51227da3323e20f2cc8fa2fcde61709abe3ab54f9d42797501
+processed: true
+retracted: false
+stress_type: risk_review
+stress_gt:
+  title: 'Revize rizik: mobilní aplikace'
+  date: '2026-03-09'
+  project: mobilní aplikace
+  risks:
+  - what: Zpoždění dodávky testování
+    severity: high
+    mitigation: týdenní kontrola stavu
+    owner: Eva Horká
+  decisions_needed:
+  - Schválit rezervu v rozpočtu
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: risk_review
+  output: 06_RISKS/2026-03-09-revize-rizik-mobilni-aplikace.md

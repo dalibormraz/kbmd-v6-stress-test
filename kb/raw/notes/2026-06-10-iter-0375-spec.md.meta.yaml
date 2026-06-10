@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0375-spec.md
+sha256: 2f702f611acfc1e759f3ab614961ee3c5382a477858b12d7261c67540fb1bf8a
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: datový sklad — grafika'
+  date: '2026-01-10'
+  goal: Postavit grafika pro datový sklad tak, aby to zvládl běžný uživatel bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  - WHEN vstup chybí, THEN formulář ukáže srozumitelnou chybu
+  constraints: []
+  out_of_scope: []
+  owner: Tomáš Malý
+  priority: should
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-01-10-zadani-datovy-sklad-grafika.md

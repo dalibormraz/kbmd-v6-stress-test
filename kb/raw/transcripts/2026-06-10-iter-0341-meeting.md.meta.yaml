@@ -1,0 +1,35 @@
+ingested_at: '2026-06-10'
+original_name: iter-0341-meeting.md
+sha256: c72077ebc42d9cdf3560d3cb4ad2f8c045ec371199097e8647ba0bc1a6b981a2
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: e-shop s keramikou — platební brána'
+  date: '2026-01-13'
+  participants:
+  - Jakub Polák
+  - Petr Novák
+  - Lucie Veselá
+  - Tomáš Malý
+  summary: Řešili jsme platební brána pro projekt e-shop s keramikou; shoda na dalším
+    postupu a rozdělení úkolů.
+  decisions:
+  - what: Pro platební brána použijeme variantu C
+    why: nejlepší poměr cena/termín
+    owner: Jakub Polák
+  actions:
+  - what: Připravit podklady k platební brána
+    owner: Petr Novák
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Jakub Polák
+    due: null
+  open_questions:
+  - Kdo schválí rozpočet za platební brána?
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-01-13-schuzka-e-shop-s-keramikou-platebni-brana.md

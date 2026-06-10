@@ -1,0 +1,23 @@
+ingested_at: '2026-06-10'
+original_name: iter-0310-spec.md
+sha256: cf748a2977a2985c3158fed0f1dab0bc77a1fc90bcae0b6e5b7aeb73aa83554e
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: datový sklad — doprava zboží'
+  date: '2026-02-17'
+  goal: Postavit doprava zboží pro datový sklad tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope: []
+  owner: Lucie Veselá
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-02-17-zadani-datovy-sklad-doprava-zbozi.md
