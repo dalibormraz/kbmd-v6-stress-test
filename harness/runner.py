@@ -132,6 +132,7 @@ def main() -> int:
                 no_template_counts[p["type"]] = no_template_counts.get(p["type"], 0) + 1
                 rec.update(outcome="no_template", expected="no_template", match=True)
                 jappend(it_log, rec)
+                _scheduled_ops(kb, i, args.phase, ops_log)   # S-03: ops běží vždy
                 continue
 
             if args.provider == "mock":
@@ -181,24 +182,7 @@ def main() -> int:
                 meta, _ = fm.read_file(res.output_path)
                 rec["has_reason"] = bool(meta.get("needs_review_reason"))
             jappend(it_log, rec)
-
-            # rozvrh operací
-            if i % 20 == 0:
-                t = time.perf_counter()
-                write_index(kb)
-                idx_ms = int((time.perf_counter() - t) * 1000)
-                rep, lint_ms = full_lint_ms()
-                jappend(ops_log, {"op": "index+lint", "iter": i, "phase": args.phase,
-                                  "index_ms": idx_ms, "lint_ms": lint_ms,
-                                  "lint_errors": len(rep.errors),
-                                  "errors_sample": [f.format_text() for f in rep.errors[:5]],
-                                  "kb_docs": len(kb.distilled_docs())})
-            if i % 50 == 0:
-                _retract_op(kb, i, args.phase, ops_log)
-            if i % 100 == 0:
-                a, b = build_index(kb), build_index(kb)
-                jappend(ops_log, {"op": "determinism", "iter": i, "phase": args.phase,
-                                  "identical": a == b})
+            _scheduled_ops(kb, i, args.phase, ops_log)
         except Exception:
             crashes += 1
             rec.update(outcome="crash", match=False, traceback=traceback.format_exc()[-1500:])
@@ -211,6 +195,28 @@ def main() -> int:
         if n >= 3:
             print("TEMPLATE NEEDED: %s (%d vzorků) — pravidlo 3× splněno" % (typ, n))
     return 0
+
+
+def _scheduled_ops(kb: KB, i: int, phase: str, ops_log: Path) -> None:
+    """Rozvrh operací dle scénáře §6 — běží nezávisle na outcome iterace (S-03)."""
+    if i % 20 == 0:
+        t = time.perf_counter()
+        write_index(kb)
+        idx_ms = int((time.perf_counter() - t) * 1000)
+        t = time.perf_counter()
+        rep = run_lint(kb, min_level="error")
+        lint_ms = int((time.perf_counter() - t) * 1000)
+        jappend(ops_log, {"op": "index+lint", "iter": i, "phase": phase,
+                          "index_ms": idx_ms, "lint_ms": lint_ms,
+                          "lint_errors": len(rep.errors),
+                          "errors_sample": [f.format_text() for f in rep.errors[:5]],
+                          "kb_docs": len(kb.distilled_docs())})
+    if i % 50 == 0:
+        _retract_op(kb, i, phase, ops_log)
+    if i % 100 == 0:
+        a, b = build_index(kb), build_index(kb)
+        jappend(ops_log, {"op": "determinism", "iter": i, "phase": phase,
+                          "identical": a == b})
 
 
 def _retract_op(kb: KB, i: int, phase: str, ops_log: Path) -> None:
