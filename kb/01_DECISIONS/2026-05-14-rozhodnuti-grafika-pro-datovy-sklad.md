@@ -2,7 +2,7 @@
 title: 'Rozhodnutí: grafika pro datový sklad'
 template: decision
 template_version: 1.0.0
-status: published
+status: quarantined
 source: raw/notes/2026-06-10-iter-0123-decision.md
 extracted_at: '2026-06-10T19:02:41Z'
 extracted_at_date: '2026-06-10'
@@ -19,6 +19,7 @@ consequences:
 - nutná úprava harmonogramu
 owner: Jakub Polák
 priority: could
+needs_review_reason: 'zdroj stažen: stress: retraction op @iter 400'
 ---
 
 # Rozhodnutí: grafika pro datový sklad

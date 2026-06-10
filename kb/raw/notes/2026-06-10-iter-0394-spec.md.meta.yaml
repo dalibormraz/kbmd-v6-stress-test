@@ -1,0 +1,25 @@
+ingested_at: '2026-06-10'
+original_name: iter-0394-spec.md
+sha256: 3ce06b87f10dd3ca9c923e9e59f96045f121bc2304d52d14dbc5fad5d392820e
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: datový sklad — testování'
+  date: '2026-02-23'
+  goal: Postavit testování pro datový sklad tak, aby to zvládl běžný uživatel bez
+    školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  - WHEN vstup chybí, THEN formulář ukáže srozumitelnou chybu
+  constraints:
+  - rozpočet do 200 tis. Kč
+  out_of_scope:
+  - mobilní aplikace
+  owner: Petr Novák
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-02-23-testovani-datoveho-skladu.md

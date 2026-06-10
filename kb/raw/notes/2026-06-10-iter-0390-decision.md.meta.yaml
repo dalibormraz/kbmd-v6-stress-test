@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0390-decision.md
+sha256: 1a2d86283c01e3b91a54a9a7ab7ad576be137c44880ab92bb6b32accc89889af
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: harmonogram pro kampaň podzim'
+  date: '2026-06-11'
+  what: Pro harmonogram v projektu kampaň podzim zvolena varianta A.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  consequences: []
+  owner: Marie Tichá
+  priority: null
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-06-11-harmonogram-pro-kampan-podzim.md

@@ -1,0 +1,31 @@
+ingested_at: '2026-06-10'
+original_name: iter-0386-meeting.md
+sha256: d2bfa8e58e06627313f78db5725633eb39716d0df91aa405908cd740ac706a9c
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: fakturační modul — migrace dat'
+  date: '2026-03-08'
+  participants:
+  - Jakub Polák
+  - Eva Horká
+  - Jana Dvořáková
+  - Petr Novák
+  summary: Řešili jsme migrace dat pro projekt fakturační modul; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro migrace dat použijeme variantu A
+    why: nejlepší poměr cena/termín
+    owner: Jakub Polák
+  actions:
+  - what: Připravit podklady k migrace dat
+    owner: Eva Horká
+    due: do konce týdne
+  open_questions: []
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-03-08-fakturacni-modul-migrace-dat.md

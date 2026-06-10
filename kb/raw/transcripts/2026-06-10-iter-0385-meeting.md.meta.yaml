@@ -1,0 +1,30 @@
+ingested_at: '2026-06-10'
+original_name: iter-0385-meeting.md
+sha256: 220cf57d18fee20d00deda58ce1bee4b55d66e4121b3d5e18061073cbbdeab06
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: e-shop s keramikou — doprava zboží'
+  date: '2026-05-03'
+  participants:
+  - Lucie Veselá
+  - Jakub Polák
+  - Michal Beneš
+  summary: Řešili jsme doprava zboží pro projekt e-shop s keramikou; shoda na dalším
+    postupu a rozdělení úkolů.
+  decisions:
+  - what: Pro doprava zboží použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Lucie Veselá
+  actions:
+  - what: Připravit podklady k doprava zboží
+    owner: Jakub Polák
+    due: do konce týdne
+  open_questions: []
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-05-03-doprava-zbozi-e-shop-s-keramikou.md

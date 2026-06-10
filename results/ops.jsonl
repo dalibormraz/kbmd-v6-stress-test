@@ -66,3 +66,6 @@
 {"op": "retract", "iter": 350, "phase": "C", "raw": "raw/notes/2026-06-10-iter-0193-interview.md", "quarantined_n": 1, "cascade_ok": true, "kb009_expected": false, "kb009_fired_before_index": false, "errors_after_index": 1, "errors_sample": ["ERROR [KB011/index-too-long] INDEX.md — index má 30628 B (limit 25600 B)"]}
 {"op": "index+lint", "iter": 360, "phase": "C", "index_ms": 463, "lint_ms": 1555, "lint_errors": 1, "errors_sample": ["ERROR [KB011/index-too-long] INDEX.md — index má 31675 B (limit 25600 B)"], "kb_docs": 346}
 {"op": "index+lint", "iter": 380, "phase": "C", "index_ms": 479, "lint_ms": 1676, "lint_errors": 1, "errors_sample": ["ERROR [KB011/index-too-long] INDEX.md — index má 34097 B (limit 25600 B)"], "kb_docs": 366}
+{"op": "index+lint", "iter": 400, "phase": "D", "index_ms": 534, "lint_ms": 1795, "lint_errors": 1, "errors_sample": ["ERROR [KB011/index-too-long] INDEX.md — index má 36090 B (limit 25600 B)"], "kb_docs": 386}
+{"op": "retract", "iter": 400, "phase": "D", "raw": "raw/notes/2026-06-10-iter-0123-decision.md", "quarantined_n": 1, "cascade_ok": true, "kb009_expected": true, "kb009_fired_before_index": true, "errors_after_index": 1, "errors_sample": ["ERROR [KB011/index-too-long] INDEX.md — index má 35888 B (limit 25600 B)"]}
+{"op": "determinism", "iter": 400, "phase": "D", "identical": true}

@@ -1,0 +1,21 @@
+ingested_at: '2026-06-10'
+original_name: iter-0397-client_feedback.md
+sha256: a202d4283e39fdd1eb83298aa56397a735e559c09ae1e3ec841439ec176db7f2
+processed: true
+retracted: false
+stress_type: client_feedback
+stress_gt:
+  title: 'Zpětná vazba: e-shop s keramikou'
+  date: '2026-04-02'
+  source_person: Marie Tichá
+  sentiment: negative
+  points:
+  - Líbí se přehlednost nového návrhu
+  - Vadí pomalé načítání na mobilu
+  requests:
+  - Přidat export do PDF
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: client_feedback
+  output: 04_PEOPLE/2026-04-02-zpetna-vazba-e-shop-s-keramikou-2.md

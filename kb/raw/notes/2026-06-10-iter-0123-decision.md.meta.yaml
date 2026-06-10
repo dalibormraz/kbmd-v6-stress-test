@@ -2,7 +2,7 @@ ingested_at: '2026-06-10'
 original_name: iter-0123-decision.md
 sha256: b9aa0b46ea4ae6dfaacd700455b4903d71638c506bf7102e041244f7567ab8f4
 processed: true
-retracted: false
+retracted: true
 stress_type: decision
 stress_gt:
   title: 'Rozhodnutí: grafika pro datový sklad'
@@ -20,3 +20,4 @@ summarized: false
 extractions:
 - template: decision
   output: 01_DECISIONS/2026-05-14-rozhodnuti-grafika-pro-datovy-sklad.md
+retracted_reason: 'stress: retraction op @iter 400'

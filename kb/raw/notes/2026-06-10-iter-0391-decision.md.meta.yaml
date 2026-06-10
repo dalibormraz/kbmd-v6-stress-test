@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0391-decision.md
+sha256: 91b69ee1c8372c486d7a53e7949224e267bf7cda45edf71c4d9f6025620d7cf8
+processed: true
+retracted: false
+stress_type: decision
+stress_gt:
+  title: 'Rozhodnutí: rozpočet pro datový sklad'
+  date: '2026-03-08'
+  what: Pro rozpočet v projektu datový sklad zvolena varianta B.
+  context: Tlačí nás termín a omezený rozpočet; potřebujeme řešení do 14 dnů.
+  alternatives:
+  - varianta C (dražší)
+  consequences:
+  - nutná úprava harmonogramu
+  owner: Jana Dvořáková
+  priority: should
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: decision
+  output: 01_DECISIONS/2026-03-08-rozpocet-pro-datovy-sklad.md

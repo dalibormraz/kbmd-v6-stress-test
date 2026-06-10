@@ -1,0 +1,20 @@
+ingested_at: '2026-06-10'
+original_name: iter-0395-client_feedback.md
+sha256: 57073271f98ba16e4b9e3b84b4d455a409cbf14b2e1b37137ab4866aae33a441
+processed: true
+retracted: false
+stress_type: client_feedback
+stress_gt:
+  title: 'Zpětná vazba: interní wiki'
+  date: '2026-03-02'
+  source_person: Ondřej Král
+  sentiment: positive
+  points:
+  - Líbí se přehlednost nového návrhu
+  requests:
+  - Přidat export do PDF
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: client_feedback
+  output: 04_PEOPLE/2026-03-02-zpetna-vazba-interni-wiki.md

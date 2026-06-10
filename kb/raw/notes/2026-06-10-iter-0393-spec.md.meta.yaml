@@ -1,0 +1,22 @@
+ingested_at: '2026-06-10'
+original_name: iter-0393-spec.md
+sha256: 584760c03871536ca85587361a592a2a848943fa92ae5bda8179c1bb1e227064
+processed: true
+retracted: false
+stress_type: spec
+stress_gt:
+  title: 'Zadání: mobilní aplikace — migrace dat'
+  date: '2026-03-05'
+  goal: Postavit migrace dat pro mobilní aplikace tak, aby to zvládl běžný uživatel
+    bez školení.
+  acceptance_criteria:
+  - WHEN uživatel dokončí akci, THEN systém potvrdí výsledek
+  constraints: []
+  out_of_scope: []
+  owner: Jana Dvořáková
+  priority: must
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: spec
+  output: 02_SPECS/2026-03-05-mobilni-aplikace-migrace-dat.md

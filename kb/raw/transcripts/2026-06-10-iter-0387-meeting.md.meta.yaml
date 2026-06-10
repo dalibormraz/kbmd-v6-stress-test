@@ -1,0 +1,34 @@
+ingested_at: '2026-06-10'
+original_name: iter-0387-meeting.md
+sha256: 8fea9eaf2529fbb733857471ed3ec33191b4c84b7518f3245be4b6af3b16f481
+processed: true
+retracted: false
+stress_type: meeting
+stress_gt:
+  title: 'Schůzka: datový sklad — školení týmu'
+  date: '2026-06-20'
+  participants:
+  - Jakub Polák
+  - Eva Horká
+  - Michal Beneš
+  - Marie Tichá
+  summary: Řešili jsme školení týmu pro projekt datový sklad; shoda na dalším postupu
+    a rozdělení úkolů.
+  decisions:
+  - what: Pro školení týmu použijeme variantu B
+    why: nejlepší poměr cena/termín
+    owner: Jakub Polák
+  actions:
+  - what: Připravit podklady k školení týmu
+    owner: Eva Horká
+    due: do konce týdne
+  - what: Ověřit kapacitu dodavatele
+    owner: Jakub Polák
+    due: null
+  open_questions: []
+  risks: []
+extracted_at: '2026-06-10'
+summarized: false
+extractions:
+- template: meeting
+  output: 03_MEETINGS/2026-06-20-skoleni-tymu-datovy-sklad.md

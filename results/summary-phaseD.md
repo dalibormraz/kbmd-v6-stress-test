@@ -1,0 +1,42 @@
+## Souhrn — fáze D (n=16 iterací)
+- outcome: {'ok': 16}
+- **C1 pády: 0**
+- **C2 shoda s očekáváním: 16/16 (100.0 %)**
+- **C3 gate-escapes: 0**
+- gate-overblock (čistý vstup v inboxu): 0
+- nekompletní frontmatter u ok výstupů: 0
+- halucinovaná pole odstraněna: 0/0
+- XL summarize pre-pass označen: 0/0
+- **C8** needs_review s důvodem: 0/0; routing do inboxu ok: 0/0
+- **C6** extract ms: p50=17846 p95=21312 max=21312 (n=16)
+- škálování extract p50 dle velikosti KB: 350+ dokumentů→17846 ms
+- **C6** plný lint ms: p50=1795 max=1795; index ms: p50=534 max=534 (n=1 kontrol)
+- lint po index regeneraci: 0/1 kontrol s 0 errors — VADNÉ: [400]
+- **C4** retrakce: 1 ops; kaskáda ok 1/1; KB009 dle očekávání 1/1; čisto po indexu 0/1
+- **C5** determinismus indexu: 1/1 identických
+### Reálné LLM (fáze D, n=16)
+- cena celkem: $0.525; tokens_in p50=28067
+- pole `acceptance_criteria`: 100 % (n=3)
+- pole `actions`: 100 % (n=4)
+- pole `alternatives`: 100 % (n=3)
+- pole `consequences`: 100 % (n=2)
+- pole `constraints`: 100 % (n=2)
+- pole `context`: 100 % (n=3)
+- pole `date`: 100 % (n=16)
+- pole `decisions`: 75 % (n=4)
+- pole `decisions_needed`: 100 % (n=3)
+- pole `goal`: 100 % (n=3)
+- pole `open_questions`: 100 % (n=1)
+- pole `out_of_scope`: 100 % (n=1)
+- pole `owner`: 100 % (n=6)
+- pole `participants`: 100 % (n=4)
+- pole `points`: 100 % (n=3)
+- pole `priority`: 100 % (n=3)
+- pole `project`: 100 % (n=3)
+- pole `requests`: 100 % (n=2)
+- pole `risks`: 100 % (n=4)
+- pole `sentiment`: 100 % (n=3)
+- pole `source_person`: 100 % (n=3)
+- pole `summary`: 50 % (n=4)
+- pole `title`: 94 % (n=16)
+- pole `what`: 100 % (n=3)
